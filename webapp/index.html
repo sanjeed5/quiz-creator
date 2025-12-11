@@ -11,63 +11,94 @@
 </head>
 <body>
     <div class="app">
+        <!-- Confetti container -->
+        <div id="confetti-container"></div>
+
         <!-- Home Screen -->
         <div id="home-screen" class="screen active">
+            <div class="home-container">
             <div class="hero">
-                <h1>Quiz Time! 📚</h1>
-                <p class="subtitle">Let's ace that exam! You've got this! 💪</p>
+                <h1>Hey! Ready to practice? 📚</h1>
+                <p class="subtitle" id="home-subtitle">Every question you try helps you learn! 💪</p>
             </div>
             
-            <div class="stats-preview" id="stats-preview">
-                <!-- Filled by JS -->
+            <!-- Encouraging stats - no scary numbers -->
+            <div class="encouragement-box" id="encouragement-box">
+                <div class="encouragement-message" id="home-encouragement">
+                    Let's start! Pick how many questions you want to try 👇
+                </div>
             </div>
 
-            <div class="menu-buttons">
-                <button class="btn btn-primary btn-large" onclick="app.startPractice()">
-                    <span class="btn-icon">🎯</span>
-                    Start Practice
-                </button>
+            <!-- Quick quiz options - the main focus -->
+            <div class="quick-quiz-section">
+                <div class="quick-quiz-buttons">
+                    <button class="btn-quick" onclick="app.startQuickQuiz(5)">
+                        <span class="quick-emoji">⚡</span>
+                        <span class="quick-number">5</span>
+                        <span class="quick-label">Super quick!</span>
+                    </button>
+                    <button class="btn-quick btn-quick-popular" onclick="app.startQuickQuiz(10)">
+                        <span class="popular-tag">Popular</span>
+                        <span class="quick-emoji">🎯</span>
+                        <span class="quick-number">10</span>
+                        <span class="quick-label">~5 mins</span>
+                    </button>
+                    <button class="btn-quick" onclick="app.startQuickQuiz(20)">
+                        <span class="quick-emoji">💪</span>
+                        <span class="quick-number">20</span>
+                        <span class="quick-label">~10 mins</span>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Secondary options -->
+            <div class="secondary-options">
                 <button class="btn btn-secondary" onclick="app.startReview()" id="review-btn">
-                    <span class="btn-icon">🔄</span>
-                    Review Mistakes
+                    🔄 Review Mistakes
                     <span class="badge" id="mistakes-badge">0</span>
                 </button>
-                <button class="btn btn-tertiary" onclick="app.showStats()">
-                    <span class="btn-icon">📊</span>
-                    View Progress
-                </button>
             </div>
 
-            <div class="topic-filter">
-                <p class="filter-label">Filter by topic:</p>
+            <!-- Topic filter - collapsed by default -->
+            <details class="topic-filter-details">
+                <summary class="topic-filter-summary">🏷️ Want to focus on one topic?</summary>
                 <div class="topic-tags" id="topic-tags">
                     <!-- Filled by JS -->
                 </div>
+            </details>
+
+            <!-- Hidden stats link -->
+            <button class="stats-link" onclick="app.showStats()">
+                📊 View detailed progress
+            </button>
             </div>
         </div>
 
         <!-- Quiz Screen -->
         <div id="quiz-screen" class="screen">
             <div class="quiz-header">
-                <button class="btn-back" onclick="app.goHome()">← Back</button>
+                <button class="btn-back" onclick="app.confirmExit()">✕</button>
                 <div class="progress-container">
                     <div class="progress-bar">
                         <div class="progress-fill" id="progress-fill"></div>
                     </div>
                     <span class="progress-text" id="progress-text">1/10</span>
                 </div>
-                <div class="score-display">
-                    <span class="correct-count" id="correct-count">0</span> ✓
+                <div class="streak-display" id="streak-display">
+                    <span class="streak-fire" id="streak-fire">🔥</span>
+                    <span class="streak-count" id="streak-count">0</span>
                 </div>
-                <div class="keyboard-hint">
-                    ⌨️ A/B/C/D to answer
-                </div>
+            </div>
+
+            <!-- Streak celebration banner -->
+            <div class="streak-banner" id="streak-banner">
+                <span id="streak-banner-text">🔥 3 in a row!</span>
             </div>
 
             <div class="quiz-content">
                 <div class="quiz-left">
                     <div class="question-card">
-                        <div class="topic-badge" id="question-topic">Science</div>
+                        <div class="topic-badge" id="question-topic">Topic</div>
                         <h2 class="question-text" id="question-text">Loading question...</h2>
                     </div>
 
@@ -77,10 +108,34 @@
                 </div>
 
                 <div class="quiz-right">
-                    <div class="feedback-card" id="feedback-card">
-                        <!-- Feedback filled by JS -->
+                    <div class="feedback-area" id="feedback-area">
+                        <div class="waiting-prompt">
+                            <div class="waiting-emoji">👆</div>
+                            <div class="waiting-text">Pick an answer!</div>
+                        </div>
                     </div>
                 </div>
+            </div>
+        </div>
+
+        <!-- Break Screen -->
+        <div id="break-screen" class="screen">
+            <div class="break-content">
+                <div class="break-emoji">🧘</div>
+                <h1>Nice work! Take a breather 😊</h1>
+                <p class="break-stats">
+                    You've done <span id="break-done">10</span> questions!
+                    <br>Got <span id="break-correct">7</span> correct so far 🎉
+                </p>
+                <div class="break-tip" id="break-tip">
+                    💡 Tip: Stretch your arms above your head!
+                </div>
+                <div class="break-timer" id="break-timer">
+                    Continue in <span id="break-countdown">30</span>s...
+                </div>
+                <button class="btn btn-primary btn-large" onclick="app.skipBreak()">
+                    I'm ready! Let's go! 💪
+                </button>
             </div>
         </div>
 
@@ -94,15 +149,15 @@
             <div class="stats-cards">
                 <div class="stat-card stat-total">
                     <div class="stat-number" id="stat-total">0</div>
-                    <div class="stat-label">Questions Attempted</div>
+                    <div class="stat-label">Questions Practiced</div>
                 </div>
                 <div class="stat-card stat-correct">
                     <div class="stat-number" id="stat-correct">0</div>
-                    <div class="stat-label">Correct Answers</div>
+                    <div class="stat-label">Learned! ✓</div>
                 </div>
-                <div class="stat-card stat-accuracy">
-                    <div class="stat-number" id="stat-accuracy">0%</div>
-                    <div class="stat-label">Accuracy</div>
+                <div class="stat-card stat-streak">
+                    <div class="stat-number" id="stat-best-streak">0</div>
+                    <div class="stat-label">Best Streak 🔥</div>
                 </div>
             </div>
 
@@ -114,11 +169,8 @@
             </div>
 
             <div class="action-buttons">
-                <button class="btn btn-primary" onclick="app.exportProgress()">
-                    📥 Export Progress (CSV)
-                </button>
                 <button class="btn btn-secondary" onclick="app.resetProgress()">
-                    🗑️ Reset Progress
+                    🗑️ Start Fresh
                 </button>
             </div>
         </div>
@@ -126,28 +178,39 @@
         <!-- Complete Screen -->
         <div id="complete-screen" class="screen">
             <div class="complete-content">
-                <div class="celebration">🎉</div>
-                <h1>Session Complete!</h1>
+                <div class="celebration" id="complete-emoji">🎉</div>
+                <h1 id="complete-title">You did it!</h1>
                 <div class="session-stats">
-                    <p>You got <span id="session-correct">0</span> out of <span id="session-total">0</span> correct!</p>
-                    <p class="accuracy-text">Accuracy: <span id="session-accuracy">0%</span></p>
+                    <div class="big-score">
+                        <span id="session-correct">0</span>/<span id="session-total">0</span>
+                    </div>
+                    <p class="score-label">questions correct!</p>
                 </div>
                 <div class="encouragement" id="encouragement">
                     Great job! Keep practicing!
                 </div>
                 <div class="complete-buttons">
-                    <button class="btn btn-primary btn-large" onclick="app.startPractice()">
-                        Practice Again
+                    <button class="btn btn-primary btn-large" onclick="app.startQuickQuiz(10)">
+                        🎯 Do 10 more!
                     </button>
                     <button class="btn btn-secondary" onclick="app.startReview()" id="complete-review-btn">
                         🔄 Review Mistakes
                     </button>
-                    <button class="btn btn-tertiary" onclick="app.exportProgress()">
-                        📥 Export Progress
+                    <button class="btn btn-tertiary" onclick="app.goHome()">
+                        Take a break
                     </button>
-                    <button class="btn btn-secondary" onclick="app.goHome()">
-                        Back to Home
-                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Exit confirmation modal -->
+        <div id="exit-modal" class="modal hidden">
+            <div class="modal-content">
+                <h2>Leave quiz?</h2>
+                <p>Your progress in this round will be saved! You can always come back 😊</p>
+                <div class="modal-buttons">
+                    <button class="btn btn-secondary" onclick="app.cancelExit()">Keep going!</button>
+                    <button class="btn btn-tertiary" onclick="app.confirmExitYes()">Leave</button>
                 </div>
             </div>
         </div>
