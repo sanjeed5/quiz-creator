@@ -38,7 +38,7 @@ The app uses evidence-based methods for quick learning:
 1. **Clone the repository:**
    ```bash
    git clone <your-repo-url>
-   cd quiz-extractor
+   cd quiz-creator
    ```
 
 2. **Install dependencies:**
@@ -62,7 +62,7 @@ The app uses evidence-based methods for quick learning:
 ## Project Structure
 
 ```
-quiz-extractor/
+quiz-creator/
 ├── webapp/                    # The quiz app (deploy this folder)
 │   ├── index.html
 │   ├── style.css

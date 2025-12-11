@@ -1,5 +1,5 @@
 [project]
-name = "quiz-extractor"
+name = "quiz-creator"
 version = "0.1.0"
 description = "Extract MCQ questions from study guide images using Gemini AI"
 readme = "README.md"
