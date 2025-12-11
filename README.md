@@ -5,6 +5,8 @@
 
 A simple, cute quiz webapp to help prepare for MCQ exams. Built with vanilla HTML/JS/CSS for simplicity and speed.
 
+**🌐 Try it live:** https://quiz-prep.pages.dev
+
 ## Features
 
 - 🎯 **825+ questions** extracted from study guide images
