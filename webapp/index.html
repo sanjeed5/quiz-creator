@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Time! 📚</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="app">
+        <!-- Home Screen -->
+        <div id="home-screen" class="screen active">
+            <div class="hero">
+                <h1>Quiz Time! 📚</h1>
+                <p class="subtitle">Let's ace that exam! You've got this! 💪</p>
+            </div>
+            
+            <div class="stats-preview" id="stats-preview">
+                <!-- Filled by JS -->
+            </div>
+
+            <div class="menu-buttons">
+                <button class="btn btn-primary btn-large" onclick="app.startPractice()">
+                    <span class="btn-icon">🎯</span>
+                    Start Practice
+                </button>
+                <button class="btn btn-secondary" onclick="app.startReview()" id="review-btn">
+                    <span class="btn-icon">🔄</span>
+                    Review Mistakes
+                    <span class="badge" id="mistakes-badge">0</span>
+                </button>
+                <button class="btn btn-tertiary" onclick="app.showStats()">
+                    <span class="btn-icon">📊</span>
+                    View Progress
+                </button>
+            </div>
+
+            <div class="topic-filter">
+                <p class="filter-label">Filter by topic:</p>
+                <div class="topic-tags" id="topic-tags">
+                    <!-- Filled by JS -->
+                </div>
+            </div>
+        </div>
+
+        <!-- Quiz Screen -->
+        <div id="quiz-screen" class="screen">
+            <div class="quiz-header">
+                <button class="btn-back" onclick="app.goHome()">← Back</button>
+                <div class="progress-container">
+                    <div class="progress-bar">
+                        <div class="progress-fill" id="progress-fill"></div>
+                    </div>
+                    <span class="progress-text" id="progress-text">1/10</span>
+                </div>
+                <div class="score-display">
+                    <span class="correct-count" id="correct-count">0</span> ✓
+                </div>
+                <div class="keyboard-hint">
+                    ⌨️ A/B/C/D to answer
+                </div>
+            </div>
+
+            <div class="quiz-content">
+                <div class="quiz-left">
+                    <div class="question-card">
+                        <div class="topic-badge" id="question-topic">Science</div>
+                        <h2 class="question-text" id="question-text">Loading question...</h2>
+                    </div>
+
+                    <div class="options-container" id="options-container">
+                        <!-- Options filled by JS -->
+                    </div>
+                </div>
+
+                <div class="quiz-right">
+                    <div class="feedback-card" id="feedback-card">
+                        <!-- Feedback filled by JS -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Stats Screen -->
+        <div id="stats-screen" class="screen">
+            <div class="stats-header">
+                <button class="btn-back" onclick="app.goHome()">← Back</button>
+                <h1>Your Progress 📊</h1>
+            </div>
+
+            <div class="stats-cards">
+                <div class="stat-card stat-total">
+                    <div class="stat-number" id="stat-total">0</div>
+                    <div class="stat-label">Questions Attempted</div>
+                </div>
+                <div class="stat-card stat-correct">
+                    <div class="stat-number" id="stat-correct">0</div>
+                    <div class="stat-label">Correct Answers</div>
+                </div>
+                <div class="stat-card stat-accuracy">
+                    <div class="stat-number" id="stat-accuracy">0%</div>
+                    <div class="stat-label">Accuracy</div>
+                </div>
+            </div>
+
+            <div class="topic-breakdown">
+                <h3>By Topic</h3>
+                <div id="topic-stats">
+                    <!-- Filled by JS -->
+                </div>
+            </div>
+
+            <div class="action-buttons">
+                <button class="btn btn-primary" onclick="app.exportProgress()">
+                    📥 Export Progress (CSV)
+                </button>
+                <button class="btn btn-secondary" onclick="app.resetProgress()">
+                    🗑️ Reset Progress
+                </button>
+            </div>
+        </div>
+
+        <!-- Complete Screen -->
+        <div id="complete-screen" class="screen">
+            <div class="complete-content">
+                <div class="celebration">🎉</div>
+                <h1>Session Complete!</h1>
+                <div class="session-stats">
+                    <p>You got <span id="session-correct">0</span> out of <span id="session-total">0</span> correct!</p>
+                    <p class="accuracy-text">Accuracy: <span id="session-accuracy">0%</span></p>
+                </div>
+                <div class="encouragement" id="encouragement">
+                    Great job! Keep practicing!
+                </div>
+                <div class="complete-buttons">
+                    <button class="btn btn-primary btn-large" onclick="app.startPractice()">
+                        Practice Again
+                    </button>
+                    <button class="btn btn-secondary" onclick="app.startReview()" id="complete-review-btn">
+                        🔄 Review Mistakes
+                    </button>
+                    <button class="btn btn-tertiary" onclick="app.exportProgress()">
+                        📥 Export Progress
+                    </button>
+                    <button class="btn btn-secondary" onclick="app.goHome()">
+                        Back to Home
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="questions-data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

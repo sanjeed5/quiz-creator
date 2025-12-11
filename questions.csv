@@ -1,0 +1,826 @@
+id,question,option_a,option_b,option_c,option_d,correct_answer,explanation,topic,source_image
+1,"When changing direct speech to indirect speech, 'here' changes to:",There,That,This,Now,A,"In indirect speech, 'here' changes to 'there' to reflect the change in perspective.",English,IMG_6497.jpg
+2,"In indirect speech, 'today' changes to:",Yesterday,That day,Tomorrow,The next day,B,'Today' changes to 'that day' in indirect speech to indicate a shift in time.,English,IMG_6497.jpg
+3,Which of the following is the correct change for 'yesterday' in indirect speech?,The next day,Tomorrow,The previous day,Today,C,'Yesterday' becomes 'the previous day' or 'the last day' in indirect speech.,English,IMG_6497.jpg
+4,"When converting direct speech to indirect speech, 'tomorrow' becomes:",Yesterday,Today,The previous day,The next day,D,'Tomorrow' changes to 'the next day' or 'the following day' in indirect speech.,English,IMG_6497.jpg
+5,"In indirect speech, 'this' changes to:",Here,There,That,Now,C,'This' changes to 'that' in indirect speech to reflect the change in perspective.,English,IMG_6497.jpg
+6,Which of the following is the correct change for 'tonight' in indirect speech?,Today,That day,That night,Tomorrow,C,'Tonight' changes to 'that night' in indirect speech.,English,IMG_6497.jpg
+7,"In indirect speech, 'now' changes to:",Here,Then,There,That,B,'Now' changes to 'then' in indirect speech to indicate a shift in time.,English,IMG_6497.jpg
+8,Which modal auxiliary changes to 'would' in indirect speech?,Can,May,Will,Must,C,'Will' changes to 'would' when converting direct speech to indirect speech.,English,IMG_6497.jpg
+9,Which modal auxiliary changes to 'could' in indirect speech?,Will,May,Can,Must,C,'Can' changes to 'could' when converting direct speech to indirect speech.,English,IMG_6497.jpg
+10,Which modal auxiliary changes to 'might' in indirect speech?,Will,May,Can,Must,B,'May' changes to 'might' when converting direct speech to indirect speech.,English,IMG_6497.jpg
+11,Which modal auxiliary changes to 'had to' in indirect speech?,Will,May,Can,Must,D,'Must' changes to 'had to' when converting direct speech to indirect speech.,English,IMG_6497.jpg
+12,"When reporting a 'yes' or 'no' question in indirect speech, which word is often used?",That,Whether,What,Why,B,'Whether' is used to introduce a 'yes' or 'no' question in indirect speech.,English,IMG_6497.jpg
+13,Which instrument measures the strength of electric current?,Anemometer,Ammeter,Barometer,Calorimeter,B,An ammeter is used to measure the strength of electric current.,Science,IMG_6518.jpg
+14,What does an anemometer measure?,Atmospheric pressure,Quantity of heat,Force and velocity of the wind,Electric current,C,An anemometer measures the force and velocity of the wind.,Science,IMG_6518.jpg
+15,Which instrument measures atmospheric pressure?,Calorimeter,Barometer,Cardiogram,Dynamometer,B,A barometer measures atmospheric pressure.,Science,IMG_6518.jpg
+16,What does a crescograph measure?,The quantity of heat,The growth of plants,The movements of the heart,Electrical power,B,A crescograph measures the growth of plants.,Science,IMG_6518.jpg
+17,Which instrument measures the quantity of heat?,Cardiogram,Calorimeter,Dynamometer,Endoscope,B,A calorimeter measures the quantity of heat.,Science,IMG_6518.jpg
+18,What does a cardiogram trace?,Electrical power,Internal parts of the body,Movements of the heart,Depth of the ocean,C,A cardiogram traces the movements of the heart.,Science,IMG_6518.jpg
+19,Which instrument measures electrical power?,Dynamometer,Dynamo,Endoscope,Electroscope,A,A dynamometer measures electrical power.,Science,IMG_6518.jpg
+20,What does a dynamo convert?,Electrical energy into mechanical energy,Mechanical energy into electrical energy,Heat into light,Light into heat,B,A dynamo converts mechanical energy into electrical energy.,Science,IMG_6518.jpg
+21,What does an endoscope examine?,Atmospheric pressure,Internal parts of the body,Electric charge,Depth of the ocean,B,An endoscope examines internal parts of the body.,Science,IMG_6518.jpg
+22,Which instrument detects the presence of an electric charge?,Fathometer,Electroscope,Galvanometer,Hydrometer,B,An electroscope detects the presence of an electric charge.,Science,IMG_6518.jpg
+23,What is a fathometer used for?,Measuring humidity,Measuring the depth of the ocean,Measuring the pressure of gases,Measuring electric current,B,A fathometer is used for measuring the depth of the ocean.,Science,IMG_6518.jpg
+24,Which instrument measures the electric current of low magnitude?,Hydrometer,Hygrometer,Galvanometer,Manometer,C,A galvanometer measures the electric current of low magnitude.,Science,IMG_6518.jpg
+25,What does a hydrometer measure?,Humidity in the air,Pressure of gases,Specific gravity of liquids,Atmospheric pressure,C,A hydrometer measures the specific gravity of liquids.,Science,IMG_6518.jpg
+26,Which instrument measures humidity in the air?,Manometer,Hygrometer,Hydrometer,Galvanometer,B,A hygrometer measures humidity in the air.,Science,IMG_6518.jpg
+27,What does a manometer measure?,Humidity in the air,Specific gravity of liquids,Pressure of gases,Electric current,C,A manometer measures the pressure of gases.,Science,IMG_6518.jpg
+28,What is the chemical name for baking soda?,Sodium chloride,Sodium bicarbonate,Calcium carbonate,Calcium oxide,B,The chemical name for baking soda is sodium bicarbonate.,Chemistry,IMG_6518.jpg
+29,What is the chemical name for Galena?,Lead sulphide,Sodium bicarbonate,Nitrous oxide,Calcium oxide,A,The chemical name for Galena is Lead sulphide.,Chemistry,IMG_6518.jpg
+30,What is the common name for Nitrous oxide?,Lime,Laughing gas,Quick silver,Limestone,B,Nitrous oxide is commonly known as laughing gas.,Chemistry,IMG_6518.jpg
+31,What is the chemical name for Lime?,Calcium carbonate,Calcium oxide,Sodium chloride,Sodium bicarbonate,B,The chemical name for Lime is Calcium oxide.,Chemistry,IMG_6518.jpg
+32,What is the chemical name for Limestone?,Calcium oxide,Calcium carbonate,Sodium chloride,Lead sulphide,B,The chemical name for Limestone is Calcium carbonate.,Chemistry,IMG_6518.jpg
+33,What is the common name for Mercury?,Common salt,Quick silver,Lime,Limestone,B,Mercury is commonly known as quick silver.,Chemistry,IMG_6518.jpg
+34,What is the chemical name for Common salt?,Sodium bicarbonate,Sodium chloride,Calcium carbonate,Calcium oxide,B,The chemical name for Common salt is Sodium chloride.,Chemistry,IMG_6518.jpg
+35,What happens when an electric current passes through a conductor?,The conductor becomes cold,The conductor becomes hot,The conductor disappears,The conductor shrinks,B,"When an electric current passes through a conductor, it becomes hot after some time and produces heat.",Science,IMG_6512.jpg
+36,What is an electromagnet?,A permanent magnet,A temporary magnet,A type of battery,A type of wire,B,An electromagnet is a temporary magnet made by winding wire around an iron core.,Science,IMG_6512.jpg
+37,What happens to an electromagnet when the current is turned off?,It becomes stronger,It loses its magnetic properties,It reverses polarity,It explodes,B,"When the current is turned off in an electromagnet, it loses its magnetic properties.",Science,IMG_6512.jpg
+38,What is heat transfer?,The process of cooling down,The process in which molecules are moved from a region of higher temperature to lower temperature,The process of creating energy,The process of freezing,B,Heat transfer is the process in which molecules are moved from a region of higher temperature to lower temperature.,Science,IMG_6512.jpg
+39,What is conduction?,Heat transfer through fluids,Heat transfer through empty space,Heat transfer from a hotter part to a colder part in a body without involving any actual movement of the molecules of the body,Heat transfer through radiation,C,Conduction is the process in which heat is transferred from the hotter part to the colder part in a body without involving any actual movement of the molecules of the body.,Science,IMG_6512.jpg
+40,What is convection?,Heat transfer through solids,Heat transfer through a vacuum,Heat transfer from one part of a fluid to another part by the actual movement of the particles of the fluid,Heat transfer through direct contact,C,Convection is the process of heat transfer from one part of a fluid to another part by the actual movement of the particles of the fluid.,Science,IMG_6512.jpg
+41,Which of the following is heated by convection?,Solids,Liquids and gases,Vacuum,Metals,B,Liquids and gases are heated by the process of convection.,Science,IMG_6512.jpg
+42,What is radiation?,Heat transfer through direct contact,Heat transfer through fluids,Heat transfer from one place to another without heating the intervening medium,Heat transfer through solids,C,Radiation is the process of the transfer of heat from one place to another without heating the intervening medium.,Science,IMG_6512.jpg
+43,How does heat from the sun reach the earth?,Conduction,Convection,Radiation,Evaporation,C,Heat from the sun reaches the earth through radiation.,Science,IMG_6512.jpg
+44,What is reflection of light?,When light passes through an object,When a ray of light approaches a smooth polished surface and the light ray bounces back,When light is absorbed by an object,When light bends around an object,B,Reflection of light is when a ray of light approaches a smooth polished surface and the light ray bounces back.,Science,IMG_6512.jpg
+45,What is the ray that bounces back after hitting a surface called?,Incident ray,Refracted ray,Reflected ray,Diffracted ray,C,The ray that bounces back is called the reflected ray.,Science,IMG_6512.jpg
+46,Which of the following is a classical dance form from Tamil Nadu?,Kathak,Bharatanatyam,Kathakali,Kuchipudi,B,Bharatanatyam is a classical dance form that originated in Tamil Nadu.,Dance,IMG_6525.jpg
+47,In which state is the classical dance Kathakali performed?,Tamil Nadu,Andhra Pradesh,Kerala,Odisha,C,Kathakali is a classical dance form from Kerala.,Dance,IMG_6525.jpg
+48,Kuchipudi is a classical dance that originates from which state?,Kerala,Andhra Pradesh,Manipur,Assam,B,Kuchipudi is a classical dance form from Andhra Pradesh.,Dance,IMG_6525.jpg
+49,Which state is known for the classical dance form Manipuri?,Kerala,Odisha,Manipur,Assam,C,Manipuri is a classical dance form from Manipur.,Dance,IMG_6525.jpg
+50,Mohiniyattam is a classical dance form associated with which state?,Tamil Nadu,Kerala,Odisha,Assam,B,Mohiniyattam is a classical dance form from Kerala.,Dance,IMG_6525.jpg
+51,The classical dance Odissi is primarily performed in which state?,Kerala,Manipur,Odisha,Andhra Pradesh,C,Odissi is a classical dance form from Odisha.,Dance,IMG_6525.jpg
+52,Sattriya is a classical dance form originating from which state?,Odisha,Assam,Manipur,Kerala,B,Sattriya is a classical dance form from Assam.,Dance,IMG_6525.jpg
+53,Kathak is a classical dance form primarily from which region of India?,South India,North India,East India,West India,B,Kathak is a classical dance form from North India.,Dance,IMG_6525.jpg
+54,Who is the current Chief of Defence Staff?,General Upendra Dwivedi,Air Chief Marshal AP Singh,General Anil Chauhan,Admiral Dinesh K Tripathi,C,General Anil Chauhan is the current Chief of Defence Staff.,Civics,IMG_6525.jpg
+55,Who is the current Chief of the Army Staff?,General Anil Chauhan,General Upendra Dwivedi,Air Chief Marshal AP Singh,Admiral Dinesh K Tripathi,B,General Upendra Dwivedi is the current Chief of the Army Staff.,Civics,IMG_6525.jpg
+56,Who is the current Chief of the Air Staff?,General Anil Chauhan,General Upendra Dwivedi,Air Chief Marshal AP Singh,Admiral Dinesh K Tripathi,C,Air Chief Marshal AP Singh is the current Chief of the Air Staff.,Civics,IMG_6525.jpg
+57,Who is the current Chief of the Naval Staff?,General Anil Chauhan,General Upendra Dwivedi,Air Chief Marshal AP Singh,Admiral Dinesh K Tripathi,D,Admiral Dinesh K Tripathi is the current Chief of the Naval Staff.,Civics,IMG_6525.jpg
+58,Who is the current Chief Justice of India?,General Anil Chauhan,Justice Sanjiv Khanna,Air Chief Marshal AP Singh,Admiral Dinesh K Tripathi,B,Justice Sanjiv Khanna is the current Chief Justice of India.,Civics,IMG_6525.jpg
+59,Which of the following is NOT mentioned as a commonly known tribe in India?,Gonds,Santhal,Angami,Tamil,D,"Gonds, Santhal, and Angami are mentioned as commonly known tribes in India. Tamil is not mentioned in the list.",Social Studies,IMG_6525.jpg
+60,Which film won the Best Picture award at the 2025 Academy Awards?,Emilia Perez,Whispers of Time,Brazil (I'm Still Here),None of the above,B,Whispers of Time won the Best Picture award at the 2025 Academy Awards.,General Knowledge,IMG_6532.jpg
+61,Which country was the first to approve the commercial use of lab-grown meat?,United States,China,Singapore,Brazil,C,Singapore was the first country to approve the commercial use of lab-grown meat.,General Knowledge,IMG_6532.jpg
+62,What was the name of the first artificial satellite launched into space?,Explorer 1,Sputnik 1,Apollo 11,Voyager 1,B,Sputnik 1 was the first artificial satellite launched into space.,General Knowledge,IMG_6532.jpg
+63,Which city hosted the 2025 World Economic Forum annual meeting?,New York,London,Davos,Paris,C,Davos hosted the 2025 World Economic Forum annual meeting.,General Knowledge,IMG_6532.jpg
+64,"Which satellite is known for capturing detailed images of deep space, including galaxies and nebulae?",Landsat,Hubble Space Telescope,GOES,GPS,B,The Hubble Space Telescope is known for capturing detailed images of deep space.,General Knowledge,IMG_6532.jpg
+65,Who assassinated Abraham Lincoln?,Lee Harvey Oswald,John Wilkes Booth,James A. Garfield,William McKinley,B,John Wilkes Booth assassinated Abraham Lincoln.,General Knowledge,IMG_6532.jpg
+66,What is the scientific name for the Northern Lights?,Aurora Australis,Aurora Borealis,Milky Way,Solar Flare,B,The scientific name for the Northern Lights is Aurora Borealis.,General Knowledge,IMG_6532.jpg
+67,Which country hosted the ICC Champions Trophy 2025?,India,Australia,Pakistan,England,C,Pakistan hosted the ICC Champions Trophy 2025.,General Knowledge,IMG_6532.jpg
+68,Which country won the Oscar for Best International Feature Film?,France,Italy,Brazil,Germany,C,Brazil (I'm Still Here) won the Oscar for Best International Feature Film.,General Knowledge,IMG_6532.jpg
+69,Which film received the most nominations at the 2025 Oscars?,Whispers of Time,Brazil (I'm Still Here),Emilia Perez,None of the above,C,Emilia Perez received the most nominations at the 2025 Oscars.,General Knowledge,IMG_6532.jpg
+70,Approximately how many elements are there in the periodic table?,92,100,118,150,C,There are approximately 118 elements in the periodic table.,General Knowledge,IMG_6532.jpg
+71,Which ancient civilization built the Machu Picchu complex in Peru?,Aztec,Inca,Maya,Egyptian,B,The Inca civilization built the Machu Picchu complex in Peru.,General Knowledge,IMG_6532.jpg
+72,The ancient city of Rome was built on how many hills?,Three,Five,Seven,Nine,C,The ancient city of Rome was built on seven hills.,General Knowledge,IMG_6532.jpg
+73,What was the name of the ancient Kerala kingdom known for its powerful navy and maritime trade?,Chola Kingdom,Chera Kingdom,Pandya Kingdom,Vijayanagara Empire,B,The ancient Kerala kingdom known for its powerful navy and maritime trade was the Chera Kingdom.,General Knowledge,IMG_6532.jpg
+74,Who was the first woman to fly solo across the Atlantic Ocean?,Bessie Coleman,Amelia Earhart,Harriet Quimby,Jacqueline Cochran,B,Amelia Earhart was the first woman to fly solo across the Atlantic Ocean.,General Knowledge,IMG_6532.jpg
+75,Which river is referred to as the 'Sorrow of Bihar' due to its frequent flooding?,Ganges River,Yamuna River,Kosi River,Brahmaputra River,C,The Kosi River is referred to as the 'Sorrow of Bihar' due to its frequent flooding.,General Knowledge,IMG_6532.jpg
+76,Which of the following is the main function of the kidneys?,Pumping blood,Filtering waste from the blood,Digesting food,Controlling body temperature,B,The kidneys filter extra water and eliminate potentially dangerous pollutants from the blood.,Science,IMG_6506.jpg
+77,Kidneys are a part of which system?,Digestive system,Respiratory system,Excretory system,Nervous system,C,The kidneys are an essential component of the excretory system.,Science,IMG_6506.jpg
+78,What shape are the kidneys?,Round,Square,Bean-shaped,Triangular,C,The kidneys are bean-shaped structures.,Science,IMG_6506.jpg
+79,Where are the kidneys located in the body?,In the chest,On either side of the backbone,In the stomach,In the head,B,The kidneys are found on either side of the backbone.,Science,IMG_6506.jpg
+80,Which of the following protects the kidneys?,The heart,The lungs,The ribs and back muscles,The brain,C,The kidneys are protected by the ribs and back muscles.,Science,IMG_6506.jpg
+81,What hormone do the kidneys generate that controls blood pressure?,Insulin,Renin,Adrenaline,Thyroxine,B,"The kidneys generate renin, a hormone that controls blood pressure.",Science,IMG_6506.jpg
+82,What is a 'system of organs'?,A single organ performing multiple functions,A group of cells working together,A group of organs working together to perform one or more functions,A collection of tissues in the body,C,A system of organs is a group of organs that work together to perform one or more functions in the body.,Science,IMG_6506.jpg
+83,"Which system provides mechanical support, posture, and locomotion?",Respiratory system,Nervous system,Musculoskeletal system,Digestive system,C,"The musculoskeletal system provides mechanical support, posture, and locomotion.",Science,IMG_6506.jpg
+84,Which system is responsible for the exchange of oxygen and carbon dioxide?,Digestive system,Respiratory system,Urinary system,Nervous system,B,The respiratory system is responsible for the exchange of oxygen and carbon dioxide between the body and air.,Science,IMG_6506.jpg
+85,"Which system initiates and regulates vital body functions, sensation, and body movements?",Digestive system,Respiratory system,Nervous system,Urinary system,C,"The nervous system initiates and regulates vital body functions, sensation, and body movements.",Science,IMG_6506.jpg
+86,Which system is responsible for the mechanical and chemical degradation of food?,Respiratory system,Digestive system,Urinary system,Nervous system,B,The digestive system is responsible for the mechanical and chemical degradation of food.,Science,IMG_6506.jpg
+87,Which system filters blood and eliminates unnecessary compounds and waste?,Digestive system,Respiratory system,Urinary system,Nervous system,C,The urinary system filters blood and eliminates unnecessary compounds and waste.,Science,IMG_6506.jpg
+88,Which system is responsible for the production of reproductive cells?,Digestive system,Respiratory system,Reproductive system,Nervous system,C,The reproductive system is responsible for the production of reproductive cells.,Science,IMG_6506.jpg
+89,Which of the following is considered one of the newest coding languages?,C++,Java,Swift,Malbolge,C,Swift is listed as one of the newest coding languages.,Computer,IMG_6540.jpg
+90,Which of these languages is considered one of the toughest to learn for coding?,Python,Malbolge,JavaScript,HTML,B,Malbolge is listed as one of the toughest languages to learn for coding.,Computer,IMG_6540.jpg
+91,Which of the following is NOT listed as one of the most used programming languages by coders?,JavaScript,HTML/CSS,Python,Reason,D,Reason is not listed as one of the most used programming languages by coders.,Computer,IMG_6540.jpg
+92,What is the main function of a chatbot?,To design websites,To simulate human conversation,To create video games,To manage databases,B,Chatbots are computer programs that simulate human conversation.,Computer,IMG_6540.jpg
+93,"What does NLP, as used in the context of chatbots, stand for?",New Language Protocol,Natural Language Processing,Network Learning Program,Neural Linguistic Programming,B,NLP stands for Natural Language Processing.,Computer,IMG_6540.jpg
+94,What does ChatGPT stand for?,Chat Graphics Pre-Trained Transformer,Chat Generative Pre-Trained Transformer,Computer Graphics Processing Technology,Creative General Purpose Tool,B,ChatGPT stands for Chat Generative Pre-Trained Transformer.,Computer,IMG_6540.jpg
+95,Which company developed ChatGPT?,Microsoft,Google,Open AI,Apple,C,ChatGPT was developed by Open AI.,Computer,IMG_6540.jpg
+96,What type of technology is ChatGPT?,Operating System,Artificial Intelligence (AI) chatbot,Database Management System,Web Browser,B,ChatGPT is an artificial intelligence (AI) chatbot technology.,Computer,IMG_6540.jpg
+97,In what year did Open AI release ChatGPT as a free research preview?,2015,2019,2021,2022,D,Open AI released ChatGPT as a free research preview in November 2022.,Computer,IMG_6540.jpg
+98,Who is the CEO of Open AI?,Bill Gates,Sam Altman,Elon Musk,Mark Zuckerberg,B,Sam Altman is the CEO of Open AI.,Computer,IMG_6540.jpg
+99,Who is the author of 'ഖസാക്കിന്റെ ഇതിഹാസം' (Khasakkinte Ithihasam)?,ടി ഡി രാമകൃഷ്ണൻ (T. D. Ramakrishnan),ആനന്ദ് (Anand),ഒ വി വിജയൻ (O. V. Vijayan),ബെന്യാമിൻ (Benyamin),C,ഒ വി വിജയൻ (O. V. Vijayan) is the author of 'ഖസാക്കിന്റെ ഇതിഹാസം' (Khasakkinte Ithihasam).,Malayalam Literature,IMG_6498.jpg
+100,Which of the following books is written by ആനന്ദ് (Anand)?,ഖസാക്കിന്റെ ഇതിഹാസം (Khasakkinte Ithihasam),മരണ സർട്ടിഫിക്കറ്റ് (Marana Certificate),ചോരശാസ്ത്രം (Chora Sasthram),രണ്ടാമൂഴം (Randamoozham),B,ആനന്ദ് (Anand) is the author of 'മരണ സർട്ടിഫിക്കറ്റ്' (Marana Certificate).,Malayalam Literature,IMG_6498.jpg
+101,Who wrote the book 'ഒരു സങ്കീർത്തനം പോലെ' (Oru Sankeerthanam Pole)?,എം ടി വാസുദേവൻ നായർ (M. T. Vasudevan Nair),പെരുമ്പടവം ശ്രീധരൻ (Perumbadavam Sreedharan),എം മുകുന്ദൻ (M. Mukundan),സാറാ ജോസഫ് (Sara Joseph),B,പെരുമ്പടവം ശ്രീധരൻ (Perumbadavam Sreedharan) wrote the book 'ഒരു സങ്കീർത്തനം പോലെ' (Oru Sankeerthanam Pole).,Malayalam Literature,IMG_6498.jpg
+102,Which of the following is an example of a സാമൂഹിക നാടകം (Social Drama)?,മറിയാമ്മ (Mariyamma),പാട്ടബാക്കി (Pattabakki),സംഗീതനൈഷധം (Sangeetha Naishadham),സീതാലക്ഷ്മി (Seethalakshmi),A,മറിയാമ്മ (Mariyamma) is an example of a സാമൂഹിക നാടകം (Social Drama).,Malayalam Literature,IMG_6498.jpg
+103,What type of drama is 'സംഗീതനൈഷധം' (Sangeetha Naishadham)?,രാഷ്ട്രീയ നാടകം (Political Drama),സംഗീത നാടകം (Musical Drama),ചരിത്ര നാടകം (Historical Drama),പ്രശ്ന നാടകം (Problem Drama),B,'സംഗീതനൈഷധം' (Sangeetha Naishadham) is a സംഗീത നാടകം (Musical Drama).,Malayalam Literature,IMG_6498.jpg
+104,Which literary work is related to the movie 'ഉദകപ്പോള' (Udakappola)?,തൂവാനത്തുമ്പികൾ (Thoovanathumbikal),വിധേയൻ (Vidheyan),നിർമ്മാല്യം (Nirmalyam),ഭാർഗവീനിലയം (Bhargaveenilayam),A,The movie 'ഉദകപ്പോള' (Udakappola) is related to the literary work 'തൂവാനത്തുമ്പികൾ' (Thoovanathumbikal).,Malayalam Literature,IMG_6498.jpg
+105,Which movie is based on the literary work 'ഭാസ്കരപട്ടേലരും എന്റെ ജീവിതവും' (Bhaskarapattelarum Ente Jeevithavum)?,തൂവാനത്തുമ്പികൾ (Thoovanathumbikal),വിധേയൻ (Vidheyan),നിർമ്മാല്യം (Nirmalyam),ഭാർഗവീനിലയം (Bhargaveenilayam),B,The movie 'വിധേയൻ' (Vidheyan) is based on the literary work 'ഭാസ്കരപട്ടേലരും എന്റെ ജീവിതവും' (Bhaskarapattelarum Ente Jeevithavum).,Malayalam Literature,IMG_6498.jpg
+106,Which movie is based on the literary work 'നീലവെളിച്ചം' (Neelavelicham)?,തൂവാനത്തുമ്പികൾ (Thoovanathumbikal),വിധേയൻ (Vidheyan),നിർമ്മാല്യം (Nirmalyam),ഭാർഗവീനിലയം (Bhargaveenilayam),D,The movie 'ഭാർഗവീനിലയം' (Bhargaveenilayam) is based on the literary work 'നീലവെളിച്ചം' (Neelavelicham).,Malayalam Literature,IMG_6498.jpg
+107,Which Indian physicist won the Nobel Prize in Physics in 1930 for his work on the scattering of light?,Homi J. Bhabha,C.V. Raman,Satyendra Nath Bose,Vikram Sarabhai,B,"C.V. Raman was awarded the Nobel Prize in Physics in 1930 for his work on the scattering of light, known as the Raman effect.",Science,IMG_6533.jpg
+108,"The Chipko Movement, a forest conservation movement, originated in which Indian state?",Kerala,Uttarakhand,Karnataka,Tamil Nadu,B,"The Chipko Movement, where people embraced trees to prevent them from being cut, originated in Uttarakhand.",Civics,IMG_6533.jpg
+109,Which Mughal emperor commissioned the construction of the Peacock Throne?,Akbar,Shah Jahan,Aurangzeb,Jahangir,B,Shah Jahan commissioned the construction of the Peacock Throne.,History,IMG_6533.jpg
+110,The Indian state of Gujarat is known for which unique landscape?,Thar Desert,Rann of Kutch,Sundarbans,Deccan Plateau,B,"Gujarat is renowned for the Rann of Kutch, the largest salt desert in the world.",Geography,IMG_6533.jpg
+111,Which Indian film director was honored with an honorary Oscar for lifetime achievement?,Bimal Roy,Satyajit Ray,Guru Dutt,Raj Kapoor,B,Satyajit Ray was honored with an honorary Oscar for lifetime achievement.,General Knowledge,IMG_6533.jpg
+112,Which country launched the first satellite to orbit the moon?,United States,Soviet Union,China,United Kingdom,B,The Soviet Union launched the first satellite to orbit the moon.,Science,IMG_6533.jpg
+113,How many gold medals did Michael Phelps win at the 2008 Beijing Olympics?,Six,Seven,Eight,Nine,C,Michael Phelps won eight gold medals at the 2008 Beijing Olympics.,Sports,IMG_6533.jpg
+114,What was the name of the treaty signed in 1215 between King John of England and his barons?,Treaty of Versailles,Magna Carta,Declaration of Independence,Bill of Rights,B,The treaty signed in 1215 between King John of England and his barons was the Magna Carta.,History,IMG_6533.jpg
+115,Which ancient Greek historian wrote 'The Histories'?,Plato,Aristotle,Herodotus,Socrates,C,"Herodotus wrote 'The Histories', a book that chronicled the Greco-Persian Wars.",History,IMG_6533.jpg
+116,Which Chinese dynasty ruled from 1271 to 1368 and was founded by Kublai Khan?,Ming Dynasty,Tang Dynasty,Yuan Dynasty,Qin Dynasty,C,The Yuan Dynasty ruled from 1271 to 1368 and was founded by Kublai Khan.,History,IMG_6533.jpg
+117,"What is the term for the process by which the universe became transparent to light, occurring around 380,000 years after the Big Bang?",Inflation,Recombination era,Dark Ages,Big Crunch,B,The process by which the universe became transparent to light is called the Recombination era.,Science,IMG_6533.jpg
+118,Which scientist developed the theory of continental drift?,Isaac Newton,Albert Einstein,Alfred Wegener,Charles Darwin,C,Alfred Wegener developed the theory of continental drift.,Science,IMG_6533.jpg
+119,"According to the Guinness World Records, what is the name of the largest living structure on Earth?",Amazon Rainforest,Great Barrier Reef,Sequoia National Forest,Boreal Forest,B,"The Great Barrier Reef is the largest living structure on Earth, according to the Guinness World Records.",Geography,IMG_6533.jpg
+120,What is the name of the strait that separates the continents of Asia and Africa?,Strait of Gibraltar,Strait of Hormuz,Bab-el-Mandeb,Bosporus Strait,C,The Bab-el-Mandeb strait separates the continents of Asia and Africa.,Geography,IMG_6533.jpg
+121,What does 'Kera' mean in the name Kerala?,Land,Coconut tree,Water,Mountains,B,"'Kera' means coconut tree, which is why Kerala is known as the land of coconut trees.",Geography,IMG_6519.jpg
+122,Kerala is known as the land of what?,Spices,Rivers,Coconut trees,Mountains,C,Kerala is named after the vast coconut plantations and is therefore known as the land of coconut trees.,Geography,IMG_6519.jpg
+123,In which month does Kerala typically receive the first rainfall?,May,June,July,August,B,Kerala receives the first spell of rain in the first week of June.,Geography,IMG_6519.jpg
+124,Which state is the largest producer of rubber in India?,Tamil Nadu,Karnataka,Kerala,Andhra Pradesh,C,Kerala is the largest producer of rubber in India.,Geography,IMG_6519.jpg
+125,Approximately what percentage of India's total rubber production comes from Kerala?,50%,70%,90%,95%,C,Kerala produces more than 90% of the total rubber produced in the country.,Geography,IMG_6519.jpg
+126,In which year did Kerala become the first digital state in India?,2010,2016,2018,2020,B,Kerala became the first digital state in the country in 2016.,Geography,IMG_6519.jpg
+127,Which former President conferred the title of 'first digital state' upon Kerala?,A.P.J. Abdul Kalam,Pratibha Patil,Ram Nath Kovind,Pranab Mukherjee,D,"The then President, Pranab Mukherjee, conferred the state with this title.",Geography,IMG_6519.jpg
+128,What is the approximate internet connectivity in Kerala?,50%,65%,75%,85%,C,Kerala has the largest telecom literacy rate in India with full mobile connectivity and about 75% internet connectivity.,Geography,IMG_6519.jpg
+129,The Western Ghats in Kerala are home to how many of the world's hottest biodiversity hotspots?,Two,Four,Six,Eight,D,Kerala is blessed with the Western Ghats which are home to one of the eight hottest hotspots in the world.,Geography,IMG_6519.jpg
+130,"What is the name of the highest peak in the Western Ghats, also known as the 'Everest of South India'?",Doddabetta,Anamudi Peak,Kalsubai,Mullayanagiri,B,Anamudi Peak of the Anaimalai range is named the 'Everest of SouthIndia'.,Geography,IMG_6519.jpg
+131,What is the height of Anamudi Peak?,"7,234 feet","8,133 feet","9,022 feet","10,001 feet",B,The peak reaches an incredible height of 8133 feet.,Geography,IMG_6519.jpg
+132,Which districts share borders with Anamudi Peak?,Kollam and Alappuzha,Ernakulam and Idukki,Kottayam and Pathanamthitta,Thrissur and Palakkad,B,It shares its borders with Ernakulam and Idukki districts.,Geography,IMG_6519.jpg
+133,Where is the Nilambur Teak Plantation located?,Thiruvananthapuram,Malappuram,Kottayam,Idukki,B,It is located in Malappuram.,Geography,IMG_6519.jpg
+134,Who established the Nilambur Teak Plantation?,H.V. Conolly,Anju Bobby George,Pranab Mukherjee,WHO,A,This plantation was established during the mid-19th century by H.V. Conolly- the collector of Malabar District.,Geography,IMG_6519.jpg
+135,Which of the following is true about Kerala?,It is the first space-friendly state in the world.,It is the first baby-friendly state in the world.,It is the first eco-friendly state in the world.,It is the first animal-friendly state in the world.,B,Kerala is the first baby-friendly state in the world.,Geography,IMG_6519.jpg
+136,Which organizations sponsored the Baby Friendly Initiative that was adopted in Kerala?,UNESCO and UNICEF,WHO and UNESCO,WHO and UNICEF,UN and WHO,C,The Baby Friendly Initiative sponsored by the WHO and UNICEF was adopted in Kerala by 1993.,Geography,IMG_6519.jpg
+137,Who was the first Malayali woman gold medalist in world Athletic Championship?,P.T. Usha,Anju Bobby George,Shiny Wilson,K.M. Beenamol,B,Anju Bobby George of Kerala was the first Malayali woman gold medalist in world Athletic Championship,Geography,IMG_6519.jpg
+138,The term 'acid' is derived from a Latin word meaning:,Sweet,Sour,Salty,Bitter,B,"The Latin words 'acidus' or 'acere', from which 'acid' is derived, mean 'sour'.",Science,IMG_6507.jpg
+139,What is the most common characteristic of acids?,Sweet taste,Salty taste,Sour taste,Bitter taste,C,Acids are generally known for their sour taste.,Science,IMG_6507.jpg
+140,Acids are divided into which two types based on their occurrence?,Strong and Weak,Organic and Inorganic,Natural and Mineral,Dilute and Concentrated,C,"Based on their occurrence, acids are classified as natural and mineral acids.",Science,IMG_6507.jpg
+141,Which of the following is an example of a natural acid?,Hydrochloric acid,Sulfuric acid,Nitric acid,Lactic acid,D,"Lactic acid is found in natural sources like sour milk, making it a natural acid.",Science,IMG_6507.jpg
+142,Mineral acids are prepared from:,Fruits,Animals,Minerals,Plants,C,Mineral acids are derived from minerals.,Science,IMG_6507.jpg
+143,Which of the following is an example of a mineral acid?,Citric acid,Acetic acid,Hydrochloric acid,Tartaric acid,C,Hydrochloric acid (HCl) is a mineral acid.,Science,IMG_6507.jpg
+144,Which acid is found in vinegar?,Malic acid,Acetic acid,Citric acid,Tartaric acid,B,Vinegar contains acetic acid.,Science,IMG_6507.jpg
+145,Which acid is found in apples?,Malic acid,Acetic acid,Citric acid,Tartaric acid,A,Apples contain malic acid.,Science,IMG_6507.jpg
+146,Which acid is found in tamarind?,Malic acid,Acetic acid,Tartaric acid,Citric acid,C,Tamarind contains tartaric acid.,Science,IMG_6507.jpg
+147,Which acid is found in sour milk and curd?,Malic acid,Lactic acid,Citric acid,Tartaric acid,B,Sour milk and curd contain lactic acid.,Science,IMG_6507.jpg
+148,Which acid is found in lemons?,Malic acid,Lactic acid,Citric acid,Tartaric acid,C,Lemons contain citric acid.,Science,IMG_6507.jpg
+149,Which acid is used as a food preservative?,Benzoic acid,Lactic acid,Citric acid,Tartaric acid,A,Benzoic acid is used as a food preservative.,Science,IMG_6507.jpg
+150,Which acid is found in grapes?,Malic acid,Lactic acid,Citric acid,Tartaric acid,D,Grapes contain tartaric acid.,Science,IMG_6507.jpg
+151,Which acid is found in fish?,Linolenic acid,Lactic acid,Citric acid,Tartaric acid,A,Fish contains linolenic acid.,Science,IMG_6507.jpg
+152,Which acid is found in ants?,Malic acid,Lactic acid,Formic acid,Tartaric acid,C,Ants contain formic acid.,Science,IMG_6507.jpg
+153,Which acid is found in spinach and lettuce leaves?,Malic acid,Lactic acid,Oxalic acid,Tartaric acid,C,Spinach and lettuce leaves contain oxalic acid.,Science,IMG_6507.jpg
+154,Which acid is found in fat?,Malic acid,Stearic acid,Citric acid,Tartaric acid,B,Fat contains stearic acid.,Science,IMG_6507.jpg
+155,Which acid is found in gastric juice?,Hydrochloric acid,Lactic acid,Citric acid,Tartaric acid,A,Gastric juice contains hydrochloric acid.,Science,IMG_6507.jpg
+156,Which acid is found in urine?,Malic acid,Lactic acid,Uric acid,Tartaric acid,C,Urine contains uric acid.,Science,IMG_6507.jpg
+157,Which acid is found in tea?,Malic acid,Lactic acid,Tanic acid,Tartaric acid,C,Tea contains tanic acid.,Science,IMG_6507.jpg
+158,What is the most common characteristic of bases?,Sour taste,Bitter taste and soapy feel,Salty taste,Sweet taste,B,Bases are known for their bitter taste and soapy feel.,Science,IMG_6507.jpg
+159,A base is a substance that renders which ion in their aqueous solution?,Hydrogen ion (H+),Hydroxyl ion (OH-),Chloride ion (Cl-),Sodium ion (Na+),B,Bases release hydroxyl ions (OH-) in aqueous solutions.,Science,IMG_6507.jpg
+160,Bases turn the color of red litmus paper to:,Red,Yellow,Blue,Green,C,Bases turn red litmus paper blue.,Science,IMG_6507.jpg
+161,Which of the following is a synonym for 'conceal'?,Reveal,Hide,Expose,Display,B,'Conceal' means to hide or disguise something.,English,IMG_6492.jpg
+162,What does 'brutal' mean?,Kind,Gentle,Cruel,Nice,C,'Brutal' means cruel and rude.,English,IMG_6492.jpg
+163,Which word is a synonym for 'adjure'?,Refuse,Beg,Deny,Reject,B,'Adjure' means to beg someone to do something.,English,IMG_6492.jpg
+164,What is a synonym for 'abolish'?,Start,Create,Finish,Build,C,'Abolish' means to finish or stop something.,English,IMG_6492.jpg
+165,Which of the following is a synonym for 'allay'?,Agitate,Excite,Calm,Disturb,C,'Allay' means to calm or soothe.,English,IMG_6492.jpg
+166,What does 'lament' mean?,Celebrate,Regret,Enjoy,Praise,B,'Lament' means to regret or deplore.,English,IMG_6492.jpg
+167,Which word is a synonym for 'filthy'?,Clean,Pure,Dirty,Spotless,C,'Filthy' means dirty.,English,IMG_6492.jpg
+168,What does 'amicable' mean?,Hostile,Unfriendly,Friendly,Aggressive,C,'Amicable' means friendly.,English,IMG_6492.jpg
+169,Which of the following is a synonym for 'beneficent'?,Selfish,Generous,Mean,Greedy,B,'Beneficent' means generous or liberal.,English,IMG_6492.jpg
+170,What is a synonym for 'burglar'?,Police,Thief,Guard,Officer,B,'Burglar' means thief.,English,IMG_6492.jpg
+171,Which word is a synonym for 'abrupt'?,Slow,Gradual,Sudden,Expected,C,'Abrupt' means sudden or hasty.,English,IMG_6492.jpg
+172,What does 'protrude' mean?,Shrink,Swell,Sink,Contract,B,'Protrude' means to swell or bulge.,English,IMG_6492.jpg
+173,Which of the following is a synonym for 'pardon'?,Punish,Forgive,Blame,Accuse,B,'Pardon' means to forgive or excuse.,English,IMG_6492.jpg
+174,What is a synonym for 'wreck'?,Repair,Build,Ruin,Construct,C,"'Wreck' means to ruin, demolish, or destroy.",English,IMG_6492.jpg
+175,Which word is a synonym for 'adorn'?,Deface,Decorate,Spoil,Damage,B,'Adorn' means to decorate or beautify.,English,IMG_6492.jpg
+176,What does 'abundant' mean?,Scarce,Rare,Plenty,Limited,C,'Abundant' means plenty.,English,IMG_6492.jpg
+177,What is the antonym of 'optimism'?,Hope,Cheerfulness,Pessimism,Joy,C,The opposite of 'optimism' is 'pessimism'.,English,IMG_6492.jpg
+178,Which word is the antonym of 'war'?,Conflict,Battle,Peace,Struggle,C,The opposite of 'war' is 'peace'.,English,IMG_6492.jpg
+179,What is the antonym of 'unity'?,Agreement,Harmony,Diversity,Accord,C,The opposite of 'unity' is 'diversity'.,English,IMG_6492.jpg
+180,Which of the following is the antonym of 'clear'?,Obvious,Distinct,Vague,Apparent,C,The opposite of 'clear' is 'vague'.,English,IMG_6492.jpg
+181,What is the antonym of 'general'?,Broad,Specific,Common,Usual,B,The opposite of 'general' is 'specific'.,English,IMG_6492.jpg
+182,Which word is the antonym of 'sudden'?,Quick,Rapid,Gradual,Fast,C,The opposite of 'sudden' is 'gradual'.,English,IMG_6492.jpg
+183,What is the antonym of 'permanent'?,Lasting,Enduring,Temporary,Stable,C,The opposite of 'permanent' is 'temporary'.,English,IMG_6492.jpg
+184,Which of the following is the antonym of 'oppose'?,Resist,Support,Fight,Defy,B,The opposite of 'oppose' is 'support'.,English,IMG_6492.jpg
+185,What is the antonym of 'stout'?,Fat,Thin,Lean,Plump,C,The opposite of 'stout' is 'lean'.,English,IMG_6492.jpg
+186,Which word is the antonym of 'secular'?,Worldly,Temporal,Religious,Earthly,C,The opposite of 'secular' is 'religious'.,English,IMG_6492.jpg
+187,What is the antonym of 'abundant'?,Plentiful,Scarce,Ample,Copious,B,The opposite of 'abundant' is 'scarce'.,English,IMG_6492.jpg
+188,Which of the following is the antonym of 'appoint'?,Hire,Dismiss,Employ,Nominate,B,The opposite of 'appoint' is 'dismiss'.,English,IMG_6492.jpg
+189,What is the antonym of 'virtue'?,Goodness,Morality,Vice,Righteousness,C,The opposite of 'virtue' is 'vice'.,English,IMG_6492.jpg
+190,Which word is the antonym of 'inhale'?,Breathe in,Exhale,Aspire,Sniff,B,The opposite of 'inhale' is 'exhale'.,English,IMG_6492.jpg
+191,What is the antonym of 'voluntary'?,Optional,Compulsory,Willing,Discretionary,B,The opposite of 'voluntary' is 'compulsory'.,English,IMG_6492.jpg
+192,Which of the following is the antonym of 'argue'?,Quarrel,Agree,Dispute,Debate,B,The opposite of 'argue' is 'agree'.,English,IMG_6492.jpg
+193,What does the phrasal verb 'make out' mean?,Run away,Understand,Tolerate,Continue,B,'Make out' means to understand.,English,IMG_6492.jpg
+194,What does the phrasal verb 'make off' mean?,Understand,Run away,Tolerate,Continue,B,'Make off' means to run away.,English,IMG_6492.jpg
+195,What does the phrasal verb 'put up with' mean?,Understand,Run away,Tolerate,Continue,C,'Put up with' means to tolerate.,English,IMG_6492.jpg
+196,What does the phrasal verb 'go on' mean?,Explode,Pass,Continue,Meet Socially,C,'Go on' means to continue.,English,IMG_6492.jpg
+197,What does the phrasal verb 'go off' mean?,Explode,Pass,Continue,Meet Socially,A,'Go off' means to explode.,English,IMG_6492.jpg
+198,What does the phrasal verb 'get through' mean?,Explode,Pass,Continue,Meet Socially,B,'Get through' means to pass.,English,IMG_6492.jpg
+199,What does the phrasal verb 'get together' mean?,Explode,Pass,Continue,Meet Socially,D,'Get together' means to meet socially.,English,IMG_6492.jpg
+200,What does the phrasal verb 'keep on' mean?,Continue,Maintain,Return,Make Something Happen,A,'Keep on' means to continue.,English,IMG_6492.jpg
+201,What does the phrasal verb 'keep up' mean?,Continue,Maintain,Return,Make Something Happen,B,'Keep up' means to maintain.,English,IMG_6492.jpg
+202,What does the phrasal verb 'bring back' mean?,Continue,Maintain,Return,Make Something Happen,C,'Bring back' means to return.,English,IMG_6492.jpg
+203,What does the phrasal verb 'bring about' mean?,Continue,Maintain,Return,Make Something Happen,D,'Bring about' means to make something happen.,English,IMG_6492.jpg
+204,What does the phrasal verb 'call for' mean?,Demand,Visit,Continue,Maintain,A,'Call for' means to demand.,English,IMG_6492.jpg
+205,What does the phrasal verb 'call at' mean?,Demand,Visit,Continue,Maintain,B,'Call at' means to visit.,English,IMG_6492.jpg
+206,What type of surface is a plane mirror?,Rough and unpolished,Smooth or highly polished,Curved and bumpy,Frosted,B,A plane mirror is defined as a smooth or highly polished surface.,Science,IMG_6513.jpg
+207,What kind of image does a plane mirror produce?,Real image,Virtual image,Inverted image,Magnified image,B,A plane mirror produces a virtual image of the real object.,Science,IMG_6513.jpg
+208,Which type of mirror has a reflective surface that bulges outward?,Plane mirror,Concave mirror,Convex mirror,Magnifying glass,C,A convex mirror has a reflective surface that bulges outward toward the light source.,Science,IMG_6513.jpg
+209,Which type of mirror is NOT used to focus light?,Concave mirror,Plane mirror,Convex mirror,Parabolic mirror,C,A convex mirror reflects light outwards and is not used to focus light.,Science,IMG_6513.jpg
+210,Which part of a spoon acts as a convex mirror?,The inside portion,The outside portion,The handle,The entire spoon,B,The outside portion of a spoon acts as a convex mirror.,Science,IMG_6513.jpg
+211,Which type of mirror has a reflecting surface that is curved inwards?,Plane mirror,Convex mirror,Concave mirror,Magnifying glass,C,A concave mirror has a reflecting surface that is curved inwards towards the source of light.,Science,IMG_6513.jpg
+212,Which part of a spoon acts as a concave mirror?,The outside portion,The handle,The inside portion,The entire spoon,C,The inside portion of a spoon acts as a concave mirror.,Science,IMG_6513.jpg
+213,What happens to light rays when a real image is formed?,They diverge,They converge and meet,They scatter,They disappear,B,A real image is formed when light rays converge and meet each other.,Science,IMG_6513.jpg
+214,Can a real image be projected onto a screen?,"No, never","Yes, always",Only sometimes,Only with special equipment,B,Real images can be projected onto a screen.,Science,IMG_6513.jpg
+215,What is a characteristic of real images?,They are always upright,They are always inverted,They are always blurry,They are always magnified,B,Real images are always inverted.,Science,IMG_6513.jpg
+216,Where can real images be projected?,Only on mirrors,Only on lenses,On pieces of paper or screens,Nowhere,C,Real images can be projected onto pieces of paper or screens.,Science,IMG_6513.jpg
+217,Which of the following is an example of a real image?,A reflection in a mirror,An image formed on a cinema screen,An image in a spoon,An image in a puddle,B,An example of a real image is the image formed on a cinema screen.,Science,IMG_6513.jpg
+218,What happens to light rays when a virtual image is formed?,They converge,They diverge,They disappear,They become brighter,B,A virtual image is formed by the divergence of light away from a point.,Science,IMG_6513.jpg
+219,Can a virtual image be projected onto a screen?,"Yes, always","No, never",Only with special equipment,Only in certain conditions,B,Virtual images cannot be projected onto a piece of paper or a screen.,Science,IMG_6513.jpg
+220,What is a characteristic of virtual images?,They are always inverted,They are always upright,They are always blurry,They are always magnified,B,Virtual images are always upright.,Science,IMG_6513.jpg
+221,Which of the following is an example of a virtual image?,An image formed on a cinema screen,A person's reflection in a mirror,A photograph,A projected slide,B,An example of a virtual image is a person's reflection in a mirror.,Science,IMG_6513.jpg
+222,When do the light rays from an object not meet but appear to meet behind the lens?,When a real image is formed,When a virtual image is formed,When a plane mirror is used,When light is refracted,B,A virtual image is formed when the light rays from an object do not meet but appear to meet behind the lens.,Science,IMG_6513.jpg
+223,Which of the following is the study of the heart?,Biology,Cardiology,Cytology,Dendrology,B,Cardiology is the study of the heart.,Science,IMG_6513.jpg
+224,Which of the following is the study of cells?,Biology,Cardiology,Cytology,Dendrology,C,Cytology is the study of cells.,Science,IMG_6513.jpg
+225,Which of the following is the study of trees?,Biology,Cardiology,Cytology,Dendrology,D,Dendrology is the study of trees.,Science,IMG_6513.jpg
+226,Which of the following is the study of skin?,Biology,Cardiology,Dermatology,Dendrology,C,Dermatology is the study of skin.,Science,IMG_6513.jpg
+227,Which of the following is the study of insects?,Biology,Cardiology,Entomology,Dendrology,C,Entomology is the study of insects.,Science,IMG_6513.jpg
+228,Which of the following is the study of blood?,Biology,Cardiology,Haematology,Dendrology,C,Haematology is the study of blood.,Science,IMG_6513.jpg
+229,Which of the following is the study of weather?,Biology,Cardiology,Meteorology,Dendrology,C,Meteorology is the study of weather.,Science,IMG_6513.jpg
+230,Which of the following is the study of microorganisms?,Biology,Cardiology,Microbiology,Dendrology,C,Microbiology is the study of microorganisms.,Science,IMG_6513.jpg
+231,Which of the following is the study of the kidneys?,Biology,Nephrology,Microbiology,Dendrology,B,Nephrology is the study of the kidneys.,Science,IMG_6513.jpg
+232,Which of the following is the study of the nervous system?,Biology,Cardiology,Neurology,Dendrology,C,Neurology is the study of the nervous system.,Science,IMG_6513.jpg
+233,Which of the following is the study of diseases?,Biology,Cardiology,Pathology,Dendrology,C,Pathology is the study of diseases.,Science,IMG_6513.jpg
+234,Which of the following is the study of animals?,Biology,Cardiology,Pathology,Zoology,D,Zoology is the study of animals.,Science,IMG_6513.jpg
+235,Who is known as the 'father of artificial intelligence'?,Alan Turing,John McCarthy,Bill Gates,Steve Jobs,B,John McCarthy is known as the 'father of artificial intelligence'.,Computer Science,IMG_6541.jpg
+236,In what decade did John McCarthy coin the term 'artificial intelligence'?,1940s,1950s,1960s,1970s,B,John McCarthy coined the term 'artificial intelligence' in the 1950s.,Computer Science,IMG_6541.jpg
+237,What does MICR stand for?,Micro Ink Character Reader,Magnetic Ink Character Recognition,Mechanical Ink Code Reader,Multiple Input Character Reader,B,MICR stands for Magnetic Ink Character Recognition.,Computer,IMG_6541.jpg
+238,What does OCR stand for?,Optical Character Recognition,Original Code Reader,Output Character Result,Open Computer Registry,A,OCR stands for Optical Character Recognition.,Computer,IMG_6541.jpg
+239,What does OMR stand for?,Optical Machine Reader,Output Management Report,Optical Mark Reader,Original Memory Recorder,C,OMR stands for Optical Mark Reader.,Computer,IMG_6541.jpg
+240,What does WIKI stand for?,Web Information Knowledge Index,What I Know Is,Wireless Internet Key Interface,Worldwide Internet Knowledge Initiative,B,WIKI stands for What I Know Is.,Computer,IMG_6541.jpg
+241,What does ALU stand for?,Advanced Logic Unit,Arithmetic and Logic Unit,Applied Learning Utility,Automated Language Upgrade,B,ALU stands for Arithmetic and Logic Unit.,Computer,IMG_6541.jpg
+242,What does CU stand for?,Central Unit,Control Unit,Computer Utility,Communication Unit,B,CU stands for Control Unit.,Computer,IMG_6541.jpg
+243,What does FOSS stand for?,Fast Operating System Software,Free and Open Source Software,File Organization System Software,First Open Source Solution,B,FOSS stands for Free and Open Source Software.,Computer,IMG_6541.jpg
+244,What does ROM stand for?,Read Only Memory,Random Output Memory,Read Output Module,Random Only Module,A,ROM stands for Read Only Memory.,Computer,IMG_6541.jpg
+245,What does RAM stand for?,Read Access Memory,Random Access Memory,Read Allocation Module,Random Allocation Module,B,RAM stands for Random Access Memory.,Computer,IMG_6541.jpg
+246,What does VDU stand for?,Virtual Display Unit,Video Display Utility,Visual Data Unit,Video Data Utility,A,VDU stands for Visual Display Unit.,Computer,IMG_6541.jpg
+247,What does IMEI stand for?,International Mobile Equipment Identity,Internet Mobile Equipment Identifier,Internal Mobile Equipment Interface,Internet Mobile Equipment Identity,A,IMEI stands for International Mobile Equipment Identity.,Computer,IMG_6541.jpg
+248,What does TCP stand for?,Transmission Control Protocol,Transfer Control Program,Technical Communication Protocol,Total Communication Program,A,TCP stands for Transmission Control Protocol.,Computer,IMG_6541.jpg
+249,What does DHCP stand for?,Dynamic Host Configuration Protocol,Data Handling Control Program,Digital Host Communication Protocol,Direct Host Configuration Program,A,DHCP stands for Dynamic Host Configuration Protocol.,Computer,IMG_6541.jpg
+250,What does CSS stand for?,Computer Style Sheets,Cascading Style Sheets,Creative System Solutions,Central Style System,B,CSS stands for Cascading Style Sheets.,Computer,IMG_6541.jpg
+251,What does FPS stand for?,Frames Per Second,Files Per Second,Functions Per Second,Features Per Second,A,FPS stands for Frame Per Second.,Computer,IMG_6541.jpg
+252,What does OTP stand for?,Open Transfer Protocol,One Time Password,Online Transaction Protocol,Original Transfer Program,B,OTP stands for One Time Password.,Computer,IMG_6541.jpg
+253,What does HTML stand for?,Hyper Text Markup Language,High-Level Text Management Language,Home Tool Markup Language,Hyperlink and Text Management Language,A,HTML stands for Hyper Text Markup Language.,Computer,IMG_6541.jpg
+254,Which layer of the atmosphere contains the air we breathe and the clouds?,Stratosphere,Troposphere,Mesosphere,Thermosphere,B,The troposphere is the layer closest to the Earth's surface and contains the air we breathe and the clouds.,Science,IMG_6520.jpg
+255,Which layer of the atmosphere is ideal for flying airplanes?,Troposphere,Stratosphere,Mesosphere,Thermosphere,B,The stratosphere is ideal for flying airplanes because it is stable and contains a layer of ozone gas.,Science,IMG_6520.jpg
+256,Which layer of the atmosphere is the uppermost layer?,Troposphere,Stratosphere,Mesosphere,Exosphere,D,The exosphere is the outermost layer of the atmosphere.,Science,IMG_6520.jpg
+257,Which of the following is NOT a layer of the Earth's interior?,Crust,Mantle,Core,Atmosphere,D,"The crust, mantle, and core are the three main layers of the Earth's interior. The atmosphere is a layer of gases surrounding the Earth.",Science,IMG_6520.jpg
+258,What percentage of the Earth's volume does the core make up?,1%,15%,84%,100%,B,The core makes up only 15% of the Earth's volume.,Science,IMG_6520.jpg
+259,What percentage of the Earth's volume does the mantle occupy?,1%,15%,84%,100%,C,The mantle occupies 84% of the Earth's volume.,Science,IMG_6520.jpg
+260,What is the outermost layer of the Earth called?,Mantle,Core,Crust,Exosphere,C,The outermost layer of the Earth is called the crust.,Science,IMG_6520.jpg
+261,Which of the following describes the Earth's crust?,Hot and liquid,"Cold, thin, and brittle",Thick and dense,Made of gas,B,"The Earth's crust is a cold, thin, and brittle outer shell made of rock.",Science,IMG_6520.jpg
+262,What are the two types of crust?,Inner and Outer,Oceanic and Continental,Solid and Liquid,Rocky and Sandy,B,The two types of crust are oceanic crust and continental crust.,Science,IMG_6520.jpg
+263,What is the capital of Andhra Pradesh?,Hyderabad,Amaravati,Chennai,Bengaluru,B,The capital of Andhra Pradesh is Amaravati.,Geography,IMG_6526.jpg
+264,Which of the following is the capital of Arunachal Pradesh?,Dispur,Itanagar,Kohima,Shillong,B,The capital of Arunachal Pradesh is Itanagar.,Geography,IMG_6526.jpg
+265,What is the capital of Assam?,Patna,Raipur,Dispur,Gandhinagar,C,The capital of Assam is Dispur.,Geography,IMG_6526.jpg
+266,The capital of Bihar is:,Raipur,Patna,Panaji,Gandhinagar,B,The capital of Bihar is Patna.,Geography,IMG_6526.jpg
+267,Which city serves as the capital of Chhattisgarh?,Panaji,Raipur,Chandigarh,Shimla,B,The capital of Chhattisgarh is Raipur.,Geography,IMG_6526.jpg
+268,What is the capital of Goa?,Panaji,Gandhinagar,Chandigarh,Shimla,A,The capital of Goa is Panaji.,Geography,IMG_6526.jpg
+269,Gandhinagar is the capital of which state?,Gujarat,Haryana,Himachal Pradesh,Jharkhand,A,Gandhinagar is the capital of Gujarat.,Geography,IMG_6526.jpg
+270,Which of the following is the capital of Haryana?,Chandigarh,Shimla,Ranchi,Bengaluru,A,The capital of Haryana is Chandigarh.,Geography,IMG_6526.jpg
+271,What is the capital of Himachal Pradesh?,"Shimla, Dharmashala",Ranchi,Bengaluru,Thiruvananthapuram,A,"The capital of Himachal Pradesh is Shimla, Dharmashala.",Geography,IMG_6526.jpg
+272,Ranchi is the capital of which state?,Karnataka,Jharkhand,Kerala,Madhya Pradesh,B,Ranchi is the capital of Jharkhand.,Geography,IMG_6526.jpg
+273,What is the capital of Karnataka?,Bengaluru,Thiruvananthapuram,Bhopal,Mumbai,A,The capital of Karnataka is Bengaluru.,Geography,IMG_6526.jpg
+274,The capital of Kerala is:,Bhopal,Mumbai,Imphal,Thiruvananthapuram,D,The capital of Kerala is Thiruvananthapuram.,Geography,IMG_6526.jpg
+275,Which city serves as the capital of Madhya Pradesh?,Mumbai,Bhopal,Imphal,Shillong,B,The capital of Madhya Pradesh is Bhopal.,Geography,IMG_6526.jpg
+276,What is the capital of Maharashtra?,Mumbai,Imphal,Shillong,Aizawl,A,The capital of Maharashtra is Mumbai.,Geography,IMG_6526.jpg
+277,Imphal is the capital of which state?,Meghalaya,Manipur,Mizoram,Nagaland,B,Imphal is the capital of Manipur.,Geography,IMG_6526.jpg
+278,Which of the following is the capital of Meghalaya?,Aizawl,Kohima,Bhubaneswar,Shillong,D,The capital of Meghalaya is Shillong.,Geography,IMG_6526.jpg
+279,What is the capital of Mizoram?,Kohima,Bhubaneswar,Aizawl,Chandigarh,C,The capital of Mizoram is Aizawl.,Geography,IMG_6526.jpg
+280,Kohima is the capital of:,Odisha,Punjab,Rajasthan,Nagaland,D,Kohima is the capital of Nagaland.,Geography,IMG_6526.jpg
+281,Which city serves as the capital of Odisha?,Chandigarh,Jaipur,Bhubaneswar,Gangtok,C,The capital of Odisha is Bhubaneswar.,Geography,IMG_6526.jpg
+282,What is the capital of Punjab?,Jaipur,Chandigarh,Gangtok,Chennai,B,The capital of Punjab is Chandigarh.,Geography,IMG_6526.jpg
+283,Jaipur is the capital of which state?,Sikkim,Rajasthan,Tamil Nadu,Telangana,B,Jaipur is the capital of Rajasthan.,Geography,IMG_6526.jpg
+284,What is the capital of Sikkim?,Chennai,Hyderabad,Agartala,Gangtok,D,The capital of Sikkim is Gangtok.,Geography,IMG_6526.jpg
+285,Chennai is the capital of:,Telangana,Tripura,Tamil Nadu,Uttar Pradesh,C,Chennai is the capital of Tamil Nadu.,Geography,IMG_6526.jpg
+286,Which city serves as the capital of Telangana?,Agartala,Hyderabad,Lucknow,Dehradun,B,The capital of Telangana is Hyderabad.,Geography,IMG_6526.jpg
+287,What is the capital of Tripura?,Lucknow,"Dehradun, Bhararisain",Kolkata,Agartala,D,The capital of Tripura is Agartala.,Geography,IMG_6526.jpg
+288,Lucknow is the capital of which state?,Uttarakhand,Uttar Pradesh,West Bengal,Andhra Pradesh,B,Lucknow is the capital of Uttar Pradesh.,Geography,IMG_6526.jpg
+289,What is the capital of Uttarakhand?,Kolkata,"Dehradun, Bhararisain",Amaravati,Itanagar,B,"The capital of Uttarakhand is Dehradun, Bhararisain.",Geography,IMG_6526.jpg
+290,Kolkata is the capital of:,Arunachal Pradesh,Assam,West Bengal,Bihar,C,Kolkata is the capital of West Bengal.,Geography,IMG_6526.jpg
+291,Who is the current Chief Minister of Andhra Pradesh?,Sri Nara Chandrababu Naidu,Sri Pema Khandu,Sri Himanta Biswa Sarma,Sri Nitish Kumar,A,Sri Nara Chandrababu Naidu is the Chief Minister of Andhra Pradesh.,Civics,IMG_6526.jpg
+292,Who is the current Chief Minister of Arunachal Pradesh?,Sri Pema Khandu,Sri Himanta Biswa Sarma,Sri Nitish Kumar,Sri Vishnu Deo Sai,A,Sri Pema Khandu is the Chief Minister of Arunachal Pradesh.,Civics,IMG_6526.jpg
+293,Who is the current Chief Minister of Assam?,Sri Himanta Biswa Sarma,Sri Nitish Kumar,Sri Vishnu Deo Sai,Sri Pramod Sawant,A,Sri Himanta Biswa Sarma is the Chief Minister of Assam.,Civics,IMG_6526.jpg
+294,Who is the current Chief Minister of Bihar?,Sri Nitish Kumar,Sri Vishnu Deo Sai,Sri Pramod Sawant,Sri Bhupendra Patel,A,Sri Nitish Kumar is the Chief Minister of Bihar.,Civics,IMG_6526.jpg
+295,Who is the current Chief Minister of Chhattisgarh?,Sri Vishnu Deo Sai,Sri Pramod Sawant,Sri Bhupendra Patel,Sri Nayab Singh Saini,A,Sri Vishnu Deo Sai is the Chief Minister of Chhattisgarh.,Civics,IMG_6526.jpg
+296,Who is the current Chief Minister of Goa?,Sri Pramod Sawant,Sri Bhupendra Patel,Sri Nayab Singh Saini,Sri Sukhvinder Singh Sukhu,A,Sri Pramod Sawant is the Chief Minister of Goa.,Civics,IMG_6526.jpg
+297,Who is the current Chief Minister of Gujarat?,Sri Bhupendra Patel,Sri Nayab Singh Saini,Sri Sukhvinder Singh Sukhu,Sri Hemant Soren,A,Sri Bhupendra Patel is the Chief Minister of Gujarat.,Civics,IMG_6526.jpg
+298,Who is the current Chief Minister of Haryana?,Sri Nayab Singh Saini,Sri Sukhvinder Singh Sukhu,Sri Hemant Soren,Sri Siddaramaiah,A,Sri Nayab Singh Saini is the Chief Minister of Haryana.,Civics,IMG_6526.jpg
+299,Who is the current Chief Minister of Himachal Pradesh?,Sri Sukhvinder Singh Sukhu,Sri Hemant Soren,Sri Siddaramaiah,Sri Pinarayi Vijayan,A,Sri Sukhvinder Singh Sukhu is the Chief Minister of Himachal Pradesh.,Civics,IMG_6526.jpg
+300,Who is the current Chief Minister of Jharkhand?,Sri Hemant Soren,Sri Siddaramaiah,Sri Pinarayi Vijayan,Sri Mohan Yadav,A,Sri Hemant Soren is the Chief Minister of Jharkhand.,Civics,IMG_6526.jpg
+301,Who is the current Chief Minister of Karnataka?,Sri Siddaramaiah,Sri Pinarayi Vijayan,Sri Mohan Yadav,Sri Devendra Fadnavis,A,Sri Siddaramaiah is the Chief Minister of Karnataka.,Civics,IMG_6526.jpg
+302,Who is the current Chief Minister of Kerala?,Sri Pinarayi Vijayan,Sri Mohan Yadav,Sri Devendra Fadnavis,Sri Conrad Kongkal Sangma,A,Sri Pinarayi Vijayan is the Chief Minister of Kerala.,Civics,IMG_6526.jpg
+303,Who is the current Chief Minister of Madhya Pradesh?,Sri Mohan Yadav,Sri Devendra Fadnavis,Sri Conrad Kongkal Sangma,Sri PU Lalduhoma,A,Sri Mohan Yadav is the Chief Minister of Madhya Pradesh.,Civics,IMG_6526.jpg
+304,Who is the current Chief Minister of Maharashtra?,Sri Devendra Fadnavis,Sri Conrad Kongkal Sangma,Sri PU Lalduhoma,Sri Neiphiu Rio,A,Sri Devendra Fadnavis is the Chief Minister of Maharashtra.,Civics,IMG_6526.jpg
+305,Who is the current Chief Minister of Meghalaya?,Sri Conrad Kongkal Sangma,Sri PU Lalduhoma,Sri Neiphiu Rio,Sri Mohan Charan Majhi,A,Sri Conrad Kongkal Sangma is the Chief Minister of Meghalaya.,Civics,IMG_6526.jpg
+306,Who is the current Chief Minister of Mizoram?,Sri PU Lalduhoma,Sri Neiphiu Rio,Sri Mohan Charan Majhi,Sri Bhagwant Singh Mann,A,Sri PU Lalduhoma is the Chief Minister of Mizoram.,Civics,IMG_6526.jpg
+307,Who is the current Chief Minister of Nagaland?,Sri Neiphiu Rio,Sri Mohan Charan Majhi,Sri Bhagwant Singh Mann,Sri Bhajan Lal Sharma,A,Sri Neiphiu Rio is the Chief Minister of Nagaland.,Civics,IMG_6526.jpg
+308,Who is the current Chief Minister of Odisha?,Sri Mohan Charan Majhi,Sri Bhagwant Singh Mann,Sri Bhajan Lal Sharma,Sri Prem Singh Tamang (Golay),A,Sri Mohan Charan Majhi is the Chief Minister of Odisha.,Civics,IMG_6526.jpg
+309,Who is the current Chief Minister of Punjab?,Sri Bhagwant Singh Mann,Sri Bhajan Lal Sharma,Sri Prem Singh Tamang (Golay),Sri M. K. Stalin,A,Sri Bhagwant Singh Mann is the Chief Minister of Punjab.,Civics,IMG_6526.jpg
+310,Who is the current Chief Minister of Rajasthan?,Sri Bhajan Lal Sharma,Sri Prem Singh Tamang (Golay),Sri M. K. Stalin,Sri A Revanth Reddy,A,Sri Bhajan Lal Sharma is the Chief Minister of Rajasthan.,Civics,IMG_6526.jpg
+311,Who is the current Chief Minister of Sikkim?,Sri Prem Singh Tamang (Golay),Sri M. K. Stalin,Sri A Revanth Reddy,Dr. Manik Saha,A,Sri Prem Singh Tamang (Golay) is the Chief Minister of Sikkim.,Civics,IMG_6526.jpg
+312,Who is the current Chief Minister of Tamil Nadu?,Sri M. K. Stalin,Sri A Revanth Reddy,Dr. Manik Saha,Sri Yogi Aditya Nath,A,Sri M. K. Stalin is the Chief Minister of Tamil Nadu.,Civics,IMG_6526.jpg
+313,Who is the current Chief Minister of Telangana?,Sri A Revanth Reddy,Dr. Manik Saha,Sri Yogi Aditya Nath,Sri Pushkar Singh Dhami,A,Sri A Revanth Reddy is the Chief Minister of Telangana.,Civics,IMG_6526.jpg
+314,Who is the current Chief Minister of Tripura?,Dr. Manik Saha,Sri Yogi Aditya Nath,Sri Pushkar Singh Dhami,Km. Mamata Banerjee,A,Dr. Manik Saha is the Chief Minister of Tripura.,Civics,IMG_6526.jpg
+315,Who is the current Chief Minister of Uttar Pradesh?,Sri Yogi Aditya Nath,Sri Pushkar Singh Dhami,Km. Mamata Banerjee,Sri Nara Chandrababu Naidu,A,Sri Yogi Aditya Nath is the Chief Minister of Uttar Pradesh.,Civics,IMG_6526.jpg
+316,Who is the current Chief Minister of Uttarakhand?,Sri Pushkar Singh Dhami,Km. Mamata Banerjee,Sri Pema Khandu,Sri Himanta Biswa Sarma,A,Sri Pushkar Singh Dhami is the Chief Minister of Uttarakhand.,Civics,IMG_6526.jpg
+317,Who is the current Chief Minister of West Bengal?,Km. Mamata Banerjee,Sri Nitish Kumar,Sri Vishnu Deo Sai,Sri Pramod Sawant,A,Km. Mamata Banerjee is the Chief Minister of West Bengal.,Civics,IMG_6526.jpg
+318,What does the proverb 'All that glitters is not gold' mean?,Everything shiny is valuable.,Appearances can be deceptive.,Gold is always the best.,Glitter is more valuable than gold.,B,The proverb means that something that looks attractive might not actually be valuable or good.,English,IMG_6493.jpg
+319,Which proverb suggests that it's easier to understand something through visuals?,All that glitters is not gold,A picture is worth a thousand words,Beggars can't be choosers,Actions speak louder than words,B,The proverb 'A picture is worth a thousand words' means that visuals can convey information more effectively than words alone.,English,IMG_6493.jpg
+320,What does 'All good things come to an end' mean?,Good things last forever.,Nothing great lasts forever.,Only bad things end.,Good things are always replaced by better things.,B,This proverb means that even the best experiences eventually come to a close.,English,IMG_6493.jpg
+321,What does the proverb 'Beggars can't be choosers' mean?,Beggars are always picky.,People who depend on others must accept what is offered.,Beggars should demand more.,It's okay to be greedy if you are poor.,B,This proverb means that people who rely on the generosity of others should be grateful for what they receive and not expect to have many options.,English,IMG_6493.jpg
+322,Which proverb emphasizes the importance of taking the first step?,"As you sow, so you shall reap",Actions speak louder than words,A journey of a thousand miles begins with a single step,All good things come to an end,C,"The proverb 'A journey of a thousand miles begins with a single step' means that to achieve a big goal, you must start with a small action.",English,IMG_6493.jpg
+323,"What does 'As you sow, so you shall reap' mean?",Planting seeds is always rewarding.,Your actions determine your results.,Harvesting is easy.,Farmers always have good luck.,B,This proverb means that the effort you put in will determine the outcome you get.,English,IMG_6493.jpg
+324,Which proverb suggests that actions are more meaningful than words?,All that glitters is not gold,A picture is worth a thousand words,Actions speak louder than words,Beggars can't be choosers,C,The proverb 'Actions speak louder than words' means that what you do is more important than what you say.,English,IMG_6493.jpg
+325,Which mountain range forms a border between Argentina and Chile?,Andes,Himalayas,Rocky Mountains,Alps,A,The Andes mountain range runs along the border between Argentina and Chile.,Geography,IMG_6534.jpg
+326,What is the largest island located in the Mediterranean Sea?,Crete,Corsica,Sicily,Cyprus,C,Sicily is the largest island in the Mediterranean Sea.,Geography,IMG_6534.jpg
+327,Who is the author of the novel 'One Hundred Years of Solitude'?,Mark Rothko,Gabriel García Márquez,Philip Glass,O. Chandu Menon,B,Gabriel García Márquez wrote 'One Hundred Years of Solitude'.,Literature,IMG_6534.jpg
+328,Which artist is known for creating the painting 'No. 61 (Rust and Blue)'?,Philip Glass,Gabriel García Márquez,Mark Rothko,O. Chandu Menon,C,Mark Rothko created the painting 'No. 61 (Rust and Blue)'.,Art,IMG_6534.jpg
+329,Who composed the opera 'Einstein on the Beach'?,Mark Rothko,Gabriel García Márquez,Philip Glass,O. Chandu Menon,C,Philip Glass composed the opera 'Einstein on the Beach'.,Music,IMG_6534.jpg
+330,Which Kerala king defeated the Dutch East India Company in the Battle of Colachel in 1741?,O. Chandu Menon,Marthanda Varma,Sree Narayana Guru,Keralolpathi,B,Marthanda Varma defeated the Dutch East India Company in the Battle of Colachel.,History,IMG_6534.jpg
+331,"What was the name of the social reform movement in Kerala during the 19th century, led by Sri Narayana Guru?",Muziris,Keralolpathi,Sree Narayana Dharma Paripalana Yogam,Indulekha,C,The social reform movement was called Sree Narayana Dharma Paripalana Yogam.,History,IMG_6534.jpg
+332,Who wrote the Malayalam novel 'Indulekha'?,Marthanda Varma,Sree Narayana Guru,O. Chandu Menon,Gabriel García Márquez,C,O. Chandu Menon wrote the Malayalam novel 'Indulekha'.,Literature,IMG_6534.jpg
+333,Which ancient Kerala port city was an important center of trade with the Romans?,Keralolpathi,Muziris,Colachel,Sicily,B,Muziris was an important trade center with the Romans.,History,IMG_6534.jpg
+334,What is the name of the ancient Kerala text that describes the history and culture of the region?,Indulekha,Muziris,Colachel,Keralolpathi,D,Keralolpathi is the ancient Kerala text that describes the history and culture of the region.,History,IMG_6534.jpg
+335,Salts are formed from the neutralization reaction of:,Acids and bases,Acids and water,Bases and water,Acids and salts,A,Salts are formed from the neutralization reaction of acids and bases.,Science,IMG_6508.jpg
+336,Positively charged ions are known as:,Anions,Cations,Neutrons,Protons,B,Positively charged ions are called cations.,Science,IMG_6508.jpg
+337,Negatively charged ions are known as:,Cations,Anions,Neutrons,Protons,B,Negatively charged ions are called anions.,Science,IMG_6508.jpg
+338,"An indicator is used to determine the nature of an aqueous solution, which can be:",Acidic,Basic,Neutral,All of the above,D,"An indicator is used to determine if a solution is acidic, basic, or neutral.",Science,IMG_6508.jpg
+339,Which of the following is a natural indicator?,Phenolphthalein,Methyl orange,Litmus,All of the above,C,"Litmus is a natural indicator, while phenolphthalein and methyl orange are synthetic indicators.",Science,IMG_6508.jpg
+340,Indicators that distinguish acids and bases with their odour are called:,Visual indicators,Olfactory indicators,pH indicators,Universal indicators,B,Indicators that use odour to distinguish acids and bases are called olfactory indicators.,Science,IMG_6508.jpg
+341,"The smallest, basic unit of life is the:",Organ,Tissue,Cell,Molecule,C,"A cell is the smallest, basic unit of life.",Science,IMG_6508.jpg
+342,Which of the following is NOT a main part of a cell?,Cell membrane,Nucleus,Cytoplasm,Mitochondria,D,"A cell has three main parts: the cell membrane, the nucleus, and the cytoplasm.",Science,IMG_6508.jpg
+343,Which part of the cell surrounds the cell and controls the substances that go into and out of the cell?,Nucleus,Cytoplasm,Cell membrane,Mitochondria,C,The cell membrane surrounds the cell and controls the substances that go into and out of the cell.,Science,IMG_6508.jpg
+344,Which structure inside the cell contains the nucleolus and most of the cell's DNA?,Cell membrane,Cytoplasm,Nucleus,Mitochondria,C,The nucleus is a structure inside the cell that contains the nucleolus and most of the cell's DNA.,Science,IMG_6508.jpg
+345,The process by which autotrophic green plants make their own food is called:,Respiration,Photosynthesis,Digestion,Transpiration,B,The process by which autotrophic green plants make their own food is called photosynthesis.,Science,IMG_6508.jpg
+346,What inorganic substances do autotrophic green plants use to make their own food during photosynthesis?,Oxygen and water,Carbon dioxide and oxygen,Carbon dioxide and water,Nitrogen and water,C,Autotrophic green plants use carbon dioxide and water to make their own food during photosynthesis.,Science,IMG_6508.jpg
+347,What pigment is essential for photosynthesis?,Melanin,Chlorophyll,Carotene,Anthocyanin,B,Chlorophyll is the green pigment essential for photosynthesis.,Science,IMG_6508.jpg
+348,When is World Population Day observed?,June 8,July 11,April 22,March 21,B,World Population Day is observed on July 11.,General Knowledge,IMG_6514.jpg
+349,On what date is World Oceans Day celebrated?,June 7,June 8,April 22,March 22,B,World Oceans Day is celebrated on June 8.,General Knowledge,IMG_6514.jpg
+350,When is International Earth Day?,March 21,March 22,April 22,December 11,C,International Earth Day is on April 22.,General Knowledge,IMG_6514.jpg
+351,When is World Water Day?,March 22,April 22,December 5,February 28,A,World Water Day is on March 22.,General Knowledge,IMG_6514.jpg
+352,When is International Forest Day?,March 21,April 7,October 16,December 5,A,International Forest Day is on March 21.,General Knowledge,IMG_6514.jpg
+353,When is International Mountains Day?,March 21,December 5,December 11,February 28,C,International Mountains Day is on December 11.,General Knowledge,IMG_6514.jpg
+354,When is World Soil Day?,December 5,February 28,October 16,April 7,A,World Soil Day is on December 5.,General Knowledge,IMG_6514.jpg
+355,When is National Science Day?,October 16,February 28,April 7,March 21,B,National Science Day is on February 28.,General Knowledge,IMG_6514.jpg
+356,When is World Food Day?,April 7,March 21,October 16,June 7,C,World Food Day is on October 16.,General Knowledge,IMG_6514.jpg
+357,When is World Health Day?,March 21,April 7,June 7,July 11,B,World Health Day is on April 7.,General Knowledge,IMG_6514.jpg
+358,When is World Forestry Day?,June 7,July 11,March 21,April 7,C,World Forestry Day is on March 21.,General Knowledge,IMG_6514.jpg
+359,What is Biology the study of?,Cells,Life,Heart,Skin,B,Biology is the study of life.,Science,IMG_6514.jpg
+360,What is Cardiology the study of?,Cells,Heart,Skin,Insects,B,Cardiology is the study of the heart.,Science,IMG_6514.jpg
+361,What is Cytology the study of?,Cells,Trees,Skin,Blood,A,Cytology is the study of cells.,Science,IMG_6514.jpg
+362,What is Dendrology the study of?,Skin,Trees,Insects,Weather,B,Dendrology is the study of trees.,Science,IMG_6514.jpg
+363,What is Dermatology the study of?,Insects,Skin,Blood,Weather,B,Dermatology is the study of the skin.,Science,IMG_6514.jpg
+364,What is Entomology the study of?,Blood,Insects,Weather,Micro-organisms,B,Entomology is the study of insects.,Science,IMG_6514.jpg
+365,What is Haematology the study of?,Weather,Blood,Micro-organisms,Clouds,B,Haematology is the study of blood.,Science,IMG_6514.jpg
+366,What is Meteorology the study of?,Micro-organisms,Weather,Clouds,Kidneys,B,Meteorology is the study of weather.,Science,IMG_6514.jpg
+367,What is Microbiology the study of?,Clouds,Micro-organisms,Kidneys,Nerves,B,Microbiology is the study of micro-organisms.,Science,IMG_6514.jpg
+368,What is Nephology the study of?,Kidneys,Clouds,Nerves,Illness,B,Nephology is the study of clouds.,Science,IMG_6514.jpg
+369,What is Nephrology the study of?,Nerves,Kidneys,Illness,Animals,B,Nephrology is the study of the kidneys.,Science,IMG_6514.jpg
+370,What is Neurology the study of?,Illness,Nerves,Animals,Clouds,B,Neurology is the study of nerves.,Science,IMG_6514.jpg
+371,What is Pathology the study of?,Animals,Illness,Kidneys,Clouds,B,Pathology is the study of illness.,Science,IMG_6514.jpg
+372,What is Zoology the study of?,Illness,Animals,Nerves,Clouds,B,Zoology is the study of animals.,Science,IMG_6514.jpg
+373,World Food Safety Day is celebrated on?,7th June,8th June,11th July,22nd April,A,World Food Safety Day is celebrated on 7th June.,General Knowledge,IMG_6514.jpg
+374,What is the function of the shortcut key 'Ctrl + A'?,Copy selected text,Paste selected text,Select all contents of the page,Open a new document,C,'Ctrl + A' is used to select all the contents of the current page or document.,Computer,IMG_6542.jpg
+375,Which shortcut key is used to bold highlighted text?,Ctrl + I,Ctrl + U,Ctrl + B,Ctrl + S,C,'Ctrl + B' is the shortcut key for bolding text.,Computer,IMG_6542.jpg
+376,What action does the shortcut 'Ctrl + C' perform?,Cut selected text,Copy selected text,Paste selected text,Clear selected text,B,'Ctrl + C' is used to copy selected text.,Computer,IMG_6542.jpg
+377,Which shortcut key is used to cut selected text?,Ctrl + X,Ctrl + C,Ctrl + V,Ctrl + Z,A,'Ctrl + X' is the shortcut key for cutting selected text.,Computer,IMG_6542.jpg
+378,What is the function of the shortcut key 'Ctrl + V'?,Cut selected text,Copy selected text,Paste selected text,Save selected text,C,'Ctrl + V' is used to paste selected text.,Computer,IMG_6542.jpg
+379,Which shortcut opens a new or blank document?,Ctrl + O,Ctrl + N,Ctrl + S,Ctrl + P,B,'Ctrl + N' opens a new or blank document.,Computer,IMG_6542.jpg
+380,What does the shortcut 'Ctrl + O' do?,Open a file,Open options,Open the print window,Open the save dialog,B,'Ctrl + O' opens options.,Computer,IMG_6542.jpg
+381,Which shortcut key is used to open the print window?,Ctrl + S,Ctrl + P,Ctrl + O,Ctrl + F,B,'Ctrl + P' opens the print window.,Computer,IMG_6542.jpg
+382,What is the function of the shortcut key 'Ctrl + F'?,Find,Format,File,Font,A,'Ctrl + F' opens the find box.,Computer,IMG_6542.jpg
+383,Which shortcut key is used to undo the last action?,Ctrl + Y,Ctrl + Z,Ctrl + X,Ctrl + A,B,'Ctrl + Z' is the shortcut key for undoing the last action.,Computer,IMG_6542.jpg
+384,What does 'Alt + Esc' do?,Closes the current window,Switches between open applications,Switches between Desktop applications on the task bar,Opens the start menu,C,'Alt + Esc' switches between Desktop applications on the task bar.,Computer,IMG_6542.jpg
+385,What is the function of 'Alt + Tab'?,Close the current program,Switch between open applications/programs,Open a new tab,Save the current file,B,'Alt + Tab' switches between open applications/programs.,Computer,IMG_6542.jpg
+386,Which shortcut key is used to close the ongoing programs?,Alt + Esc,Ctrl + Esc,Alt + F4,Ctrl + F4,C,'Alt + F4' is used to close the ongoing programs.,Computer,IMG_6542.jpg
+387,Which shortcut key is used to activate the start menu?,Alt + Tab,Ctrl + Esc,Alt + F4,Ctrl + Alt + Delete,B,'Ctrl + Esc' is used to activate the start menu.,Computer,IMG_6542.jpg
+388,What type of organization does the '.org' domain name typically represent?,Commercial,Network,Education,Organization,D,The '.org' domain name is shorthand for 'organization'.,Computer,IMG_6542.jpg
+389,Which domain name is typically used for commercial websites?,.net,.com,.org,.edu,B,The '.com' domain name is shorthand for 'commercial'.,Computer,IMG_6542.jpg
+390,What does the domain name '.net' typically represent?,Education,Government,Network,Military,C,The '.net' domain name is shorthand for 'network'.,Computer,IMG_6542.jpg
+391,Which domain name is used for educational institutions?,.com,.org,.edu,.gov,C,The '.edu' domain name is shorthand for 'education'.,Computer,IMG_6542.jpg
+392,What type of organization uses the '.gov' domain name?,Military,Government,Commercial,Network,B,The '.gov' domain name is shorthand for 'government'.,Computer,IMG_6542.jpg
+393,Which domain name is used for military websites?,.mil,.gov,.org,.com,A,The '.mil' domain name is shorthand for 'military'.,Computer,IMG_6542.jpg
+394,Which bowler has taken the most wickets in Test cricket?,Shane Warne,Muttiah Muralitharan,Anil Kumble,James Anderson,B,Muttiah Muralitharan has taken the most wickets (800) in Test cricket.,Sports,IMG_6537.jpg
+395,Who was the captain of the Indian team that won the 1983 Cricket World Cup?,Sunil Gavaskar,Kapil Dev,Sachin Tendulkar,Sourav Ganguly,B,Kapil Dev was the captain of the Indian team that won the 1983 Cricket World Cup.,Sports,IMG_6537.jpg
+396,Who has hit the fastest century in ODI cricket?,Virat Kohli,AB de Villiers,Chris Gayle,Shahid Afridi,B,"AB de Villiers holds the record for the fastest century in ODI cricket, scoring it in 31 balls.",Sports,IMG_6537.jpg
+397,Which country has won the most FIFA World Cups?,Germany,Italy,Brazil,Argentina,C,"Brazil has won the most FIFA World Cups, with a total of 5 titles.",Sports,IMG_6537.jpg
+398,Who scored the famous 'Hand of God' goal?,Pele,Diego Maradona,Lionel Messi,Cristiano Ronaldo,B,Diego Maradona scored the famous 'Hand of God' goal.,Sports,IMG_6537.jpg
+399,Which is the only country to have played in every FIFA World Cup?,Germany,Brazil,Italy,Argentina,B,Brazil is the only country to have played in every FIFA World Cup.,Sports,IMG_6537.jpg
+400,Who won the Golden Ball award in the 2022 FIFA World Cup?,Kylian Mbappe,Neymar,Lionel Messi,Luka Modric,C,Lionel Messi won the Golden Ball award in the 2022 FIFA World Cup.,Sports,IMG_6537.jpg
+401,Who was the first Indian woman to win an Olympic medal?,Sania Mirza,P.V. Sindhu,Karnam Malleswari,Mary Kom,C,Karnam Malleswari was the first Indian woman to win an Olympic medal in weightlifting in 2000.,Sports,IMG_6537.jpg
+402,How many rings are there in the Olympic symbol?,3,4,5,6,C,"There are 5 rings in the Olympic symbol, representing the five continents.",Sports,IMG_6537.jpg
+403,Who was the first Indian athlete to win a medal in track & field at the Olympics?,Milkha Singh,P.T. Usha,Neeraj Chopra,Anju Bobby George,C,"Neeraj Chopra won a gold medal in Javelin at the 2020 Tokyo Olympics, becoming the first Indian athlete to win a medal in track & field at the Olympics.",Sports,IMG_6537.jpg
+404,Which country hosted the first-ever modern Olympic Games?,Italy,Greece,France,United States,B,Greece hosted the first-ever modern Olympic Games in Athens in 1896.,Sports,IMG_6537.jpg
+405,Who was the first Indian woman to win a Grand Slam title?,Sania Mirza,Saina Nehwal,P.V. Sindhu,Mithali Raj,A,Sania Mirza was the first Indian woman to win a Grand Slam title.,Sports,IMG_6537.jpg
+406,Which country has won the most gold medals in field hockey at the Olympics?,Australia,Germany,India,Netherlands,C,India has won the most gold medals (8) in field hockey at the Olympics.,Sports,IMG_6537.jpg
+407,Who won the Golden Slam in tennis (all four Grand Slams + Olympic gold in a single year)?,Serena Williams,Steffi Graf,Roger Federer,Rafael Nadal,B,Steffi Graf won the Golden Slam in tennis in 1988.,Sports,IMG_6537.jpg
+408,Which two players have the most Grand Slam finals meetings?,Roger Federer and Rafael Nadal,Rafael Nadal and Novak Djokovic,Pete Sampras and Andre Agassi,Bjorn Borg and John McEnroe,B,Rafael Nadal and Novak Djokovic have the most Grand Slam finals meetings.,Sports,IMG_6537.jpg
+409,Who is the first Indian Formula 1 driver?,Michael Schumacher,Narain Karthikeyan,Lewis Hamilton,Sebastian Vettel,B,Narain Karthikeyan is the first Indian Formula 1 driver.,Sports,IMG_6537.jpg
+410,Which sport is associated with the Davis Cup?,Cricket,Tennis,Golf,Badminton,B,The Davis Cup is associated with Tennis.,Sports,IMG_6537.jpg
+411,Which Grand Slam is played on Plexi Cushion Hard Court?,French Open,Wimbledon,Australian Open,US Open,C,The Australian Open is played on Plexi Cushion Hard Court.,Sports,IMG_6537.jpg
+412,What is the trophy name for the Australian Open?,Coupe des Mousquetaires,Venus Rosewater Dish,Norman Brookes Challenge Cup,US Open trophy,C,The trophy name for the Australian Open is Norman Brookes Challenge Cup.,Sports,IMG_6537.jpg
+413,Which Grand Slam is played on Clay?,Australian Open,French Open,Wimbledon,US Open,B,The French Open is played on Clay.,Sports,IMG_6537.jpg
+414,What is the trophy name for Wimbledon?,Coupe des Mousquetaires,Venus Rosewater Dish,Norman Brookes Challenge Cup,US Open trophy,B,The trophy name for Wimbledon is Venus Rosewater Dish.,Sports,IMG_6537.jpg
+415,Which Grand Slam is played on Grass?,Australian Open,French Open,Wimbledon,US Open,C,Wimbledon is played on Grass.,Sports,IMG_6537.jpg
+416,Which Grand Slam is played on Hard Court?,French Open,Wimbledon,Australian Open,US Open,D,The US Open is played on Hard Court.,Sports,IMG_6537.jpg
+417,What is the trophy name for the French Open?,Coupe des Mousquetaires,Venus Rosewater Dish,Norman Brookes Challenge Cup,US Open trophy,A,The trophy name for the French Open is Coupe des Mousquetaires.,Sports,IMG_6537.jpg
+418,What is the trophy name for the US Open?,Coupe des Mousquetaires,Venus Rosewater Dish,Norman Brookes Challenge Cup,US Open trophy,D,The trophy name for the US Open is US Open trophy.,Sports,IMG_6537.jpg
+419,Which of the following best describes the Earth's mantle?,Made of liquid metal,Made of solid rock,Made of gas,Made of water,B,The Earth's mantle is made of solid rock.,Earth Science,IMG_6521.jpg
+420,What is the temperature of the Earth's mantle?,Cold,Hot,Freezing,Icy,B,The Earth's mantle is hot.,Earth Science,IMG_6521.jpg
+421,What is the Earth's core primarily made of?,Water,Dense metallic material,Solid rock,Gases,B,The Earth's core is made of a dense metallic material.,Earth Science,IMG_6521.jpg
+422,What causes the magnetic field on Earth?,The mantle,The atmosphere,The metallic nature of the Earth's core,The oceans,C,The magnetic field is due to the metallic nature of the Earth's core.,Earth Science,IMG_6521.jpg
+423,What are the two parts of the Earth's core?,Solid and liquid,Inner and outer,Solid inner core and liquid outer core,Crust and mantle,C,The Earth's core is composed of a solid inner core and a liquid outer core.,Earth Science,IMG_6521.jpg
+424,Which of the following is NOT a broad category of natural vegetation?,Forests,Grasslands,Shrubs,Deserts,D,"Natural vegetation is generally classified into Forests, Grasslands, and Shrubs.",Geography,IMG_6521.jpg
+425,Which of the following is a type of forest?,Savanna Grassland,Tropical Evergreen Forest,Hot Desert Vegetation,Cold Desert Vegetation,B,Tropical Evergreen Forests are a type of forest.,Geography,IMG_6521.jpg
+426,Which of the following is a type of natural vegetation?,Tropical Evergreen Forests,Tropical Deciduous Forests,Temperate Evergreen Forests,All of the above,D,"Tropical Evergreen Forests, Tropical Deciduous Forests, and Temperate Evergreen Forests are all types of natural vegetation.",Geography,IMG_6521.jpg
+427,What is a rock?,A type of mineral,A natural mass of minerals,A type of soil,A type of plant,B,A rock is a natural mass of minerals found within the earth's crust.,Earth Science,IMG_6521.jpg
+428,What are the three main types of rocks based on their formation?,"Igneous, sedimentary, and metamorphic","Granite, limestone, and marble","Solid, liquid, and gas","Hot, cold, and warm",A,"Rocks can be classified into igneous, sedimentary, and metamorphic rocks.",Earth Science,IMG_6521.jpg
+429,What is a mineral?,A type of rock,A substance with a definite chemical composition,A type of soil,A type of plant,B,Minerals are substances that have a definite chemical composition.,Earth Science,IMG_6521.jpg
+430,Who is the current Prime Minister of India?,Amit Shah,Narendra Modi,Rajnath Singh,Nirmala Sitharaman,B,Narendra Modi is the current Prime Minister of India.,Civics,IMG_6535.jpg
+431,Who is the Minister of Defence?,Amit Shah,Narendra Modi,Rajnath Singh,Nirmala Sitharaman,C,Rajnath Singh is the Minister of Defence.,Civics,IMG_6535.jpg
+432,Who is the Minister of Home Affairs and Minister of Cooperation?,Amit Shah,Narendra Modi,Rajnath Singh,Nirmala Sitharaman,A,Amit Shah is the Minister of Home Affairs and Minister of Cooperation.,Civics,IMG_6535.jpg
+433,Who is the Minister of Finance and Minister of Corporate Affairs?,Amit Shah,Narendra Modi,Rajnath Singh,Nirmala Sitharaman,D,Nirmala Sitharaman is the Minister of Finance and Minister of Corporate Affairs.,Civics,IMG_6535.jpg
+434,Who is the Minister of Road Transport and Highways?,Nitin Jairam Gadkari,Narendra Modi,Rajnath Singh,Nirmala Sitharaman,A,Nitin Jairam Gadkari is the Minister of Road Transport and Highways.,Civics,IMG_6535.jpg
+435,Who is the Minister of Health and Family Welfare and Minister of Chemicals and Fertilizers?,Jagat Prakash Nadda,Narendra Modi,Rajnath Singh,Nirmala Sitharaman,A,Jagat Prakash Nadda is the Minister of Health and Family Welfare and Minister of Chemicals and Fertilizers.,Civics,IMG_6535.jpg
+436,Who is the Minister of Agriculture & Farmers Welfare and Minister of Rural Development?,Shivraj Singh Chouhan,Narendra Modi,Rajnath Singh,Nirmala Sitharaman,A,Shivraj Singh Chouhan is the Minister of Agriculture & Farmers Welfare and Minister of Rural Development.,Civics,IMG_6535.jpg
+437,Who is the Minister of External Affairs?,Subrahmanyam Jaishankar,Narendra Modi,Rajnath Singh,Nirmala Sitharaman,A,Subrahmanyam Jaishankar is the Minister of External Affairs.,Civics,IMG_6535.jpg
+438,Who is the Minister of Housing and Urban Affairs and Minister of Power?,Manohar Lal,Narendra Modi,Rajnath Singh,Nirmala Sitharaman,A,Manohar Lal is the Minister of Housing and Urban Affairs and Minister of Power.,Civics,IMG_6535.jpg
+439,Who is the Minister of Heavy Industries and Minister of Steel?,H. D. Kumaraswamy,Narendra Modi,Rajnath Singh,Nirmala Sitharaman,A,H. D. Kumaraswamy is the Minister of Heavy Industries and Minister of Steel.,Civics,IMG_6535.jpg
+440,Who is the Minister of Commerce and Industry?,Piyush Goyal,Narendra Modi,Rajnath Singh,Nirmala Sitharaman,A,Piyush Goyal is the Minister of Commerce and Industry.,Civics,IMG_6535.jpg
+441,Who is the Minister of Education?,Dharmendra Pradhan,Narendra Modi,Rajnath Singh,Nirmala Sitharaman,A,Dharmendra Pradhan is the Minister of Education.,Civics,IMG_6535.jpg
+442,What does the idiom 'An apple a day keeps the doctor away' mean?,Doctors don't like apples.,Eating an apple daily keeps you healthy.,Apples are expensive.,Doctors eat apples every day.,B,The idiom means that eating an apple daily helps maintain good health and prevents the need to see a doctor.,English,IMG_6494.jpg
+443,What is the meaning of the idiom 'Better safe than sorry'?,It's better to apologize than to be safe.,It's better to take precautions than to regret later.,Safety is not important.,Being sorry is better than being safe.,B,The idiom means that it is wiser to be cautious and take precautions to avoid potential problems or regrets.,English,IMG_6494.jpg
+444,What does the idiom 'Every cloud has a silver lining' mean?,Clouds are made of silver.,There is always a positive side to any difficult situation.,Clouds are always dark and gloomy.,Silver is found in clouds.,B,"The idiom means that even in the most difficult or unpleasant situations, there is always a positive aspect or hope for improvement.",English,IMG_6494.jpg
+445,What are question tags?,Long questions at the beginning of a sentence.,Short questions at the end of a sentence.,Questions used in formal writing.,Questions that are always negative.,B,"Question tags are short questions that are added to the end of a statement, particularly in spoken English, to ask for confirmation or agreement.",English,IMG_6494.jpg
+446,"If the main part of a sentence is positive, what kind of question tag is used?",Positive,Negative,Neutral,Interrogative,B,"When the main part of the sentence is positive, the question tag will be negative. For example: 'He is a doctor, isn't he?'",English,IMG_6494.jpg
+447,"If the main part of a sentence is negative, what kind of question tag is used?",Positive,Negative,Neutral,Interrogative,A,"When the main part of the sentence is negative, the question tag will be positive. For example: 'You haven't met him, have you?'",English,IMG_6494.jpg
+448,Which of the following sentences uses the correct question tag?,"She is happy, is she?","She is happy, isn't she?","She is not happy, isn't she?","She is not happy, is it?",B,"Since the main sentence 'She is happy' is positive, the question tag should be negative: 'isn't she?'",English,IMG_6494.jpg
+449,Which of the following sentences uses the correct question tag?,"They took their notebooks, didn't they?","They didn't take their notebooks, didn't they?","They didn't take their notebooks, did they?","They took their notebooks, did they?",C,"Since the main sentence 'They didn't take their notebooks' is negative, the question tag should be positive: 'did they?'",English,IMG_6494.jpg
+450,കേരള സംഗീത നാടക അക്കാദമിയുടെ മുഖപത്രം ഏതാണ്?,കേരള കർഷകൻ,വിജ്ഞാനകൈരളി,കേളി,തളിര്,C,കേരള സംഗീത നാടക അക്കാദമിയുടെ മുഖപത്രം കേളിയാണ്.,General Knowledge,IMG_6499.jpg
+451,കേരള ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടിന്റെ മുഖപത്രം ഏതാണ്?,കേരള കർഷകൻ,വിജ്ഞാനകൈരളി,കേളി,തളിര്,B,കേരള ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടിന്റെ മുഖപത്രം വിജ്ഞാനകൈരളിയാണ്.,General Knowledge,IMG_6499.jpg
+452,കേരള കാർഷിക സർവ്വകലാശാലയുടെ മുഖപത്രം ഏതാണ്?,കല്പധേനു,വിജ്ഞാനകൈരളി,കേളി,തളിര്,A,കേരള കാർഷിക സർവ്വകലാശാലയുടെ മുഖപത്രം കല്പധേനുവാണ്.,General Knowledge,IMG_6499.jpg
+453,കേരള ഫോക്ലോർ അക്കാദമിയുടെ മുഖപത്രം ഏതാണ്?,പൊലി,വിജ്ഞാനകൈരളി,കേളി,തളിര്,A,കേരള ഫോക്ലോർ അക്കാദമിയുടെ മുഖപത്രം പൊലിയാണ്.,General Knowledge,IMG_6499.jpg
+454,മലയാള സർവ്വകലാശാലയുടെ മുഖപത്രം ഏതാണ്?,എഴുത്തോല,വിജ്ഞാനകൈരളി,കേളി,തളിര്,A,മലയാള സർവ്വകലാശാലയുടെ മുഖപത്രം എഴുത്തോലയാണ്.,General Knowledge,IMG_6499.jpg
+455,കേരള വനവകുപ്പിന്റെ മുഖപത്രം ഏതാണ്?,ആരണ്യകം,വിജ്ഞാനകൈരളി,കേളി,തളിര്,A,കേരള വനവകുപ്പിന്റെ മുഖപത്രം ആരണ്യകമാണ്.,General Knowledge,IMG_6499.jpg
+456,കേരള സാഹിത്യ അക്കാദമിയുടെ മുഖപത്രം ഏതാണ്?,സാഹിത്യലോകം,വിജ്ഞാനകൈരളി,കേളി,തളിര്,A,കേരള സാഹിത്യ അക്കാദമിയുടെ മുഖപത്രം സാഹിത്യലോകമാണ്.,General Knowledge,IMG_6499.jpg
+457,കേരള ബാല സാഹിത്യ ഇൻസ്റ്റിറ്റ്യൂട്ടിന്റെ മുഖപത്രം ഏതാണ്?,തളിര്,വിജ്ഞാനകൈരളി,കേളി,സാഹിത്യലോകം,A,കേരള ബാല സാഹിത്യ ഇൻസ്റ്റിറ്റ്യൂട്ടിന്റെ മുഖപത്രം തളിരാണ്.,General Knowledge,IMG_6499.jpg
+458,"""God of Small Things"" എന്ന കൃതിയുടെ വിവർത്തനം ഏതാണ്?",കുഞ്ഞുകാര്യങ്ങളുടെ ഒടേതമ്പുരാൻ,പാവങ്ങൾ,കുറ്റവും ശിക്ഷയും,മൂലധനം,A,"""God of Small Things"" എന്ന കൃതിയുടെ വിവർത്തനം കുഞ്ഞുകാര്യങ്ങളുടെ ഒടേതമ്പുരാൻ എന്നാണ്.",Literature,IMG_6499.jpg
+459,"""Les Miserables"" എന്ന കൃതിയുടെ വിവർത്തനം ഏതാണ്?",കുഞ്ഞുകാര്യങ്ങളുടെ ഒടേതമ്പുരാൻ,പാവങ്ങൾ,കുറ്റവും ശിക്ഷയും,മൂലധനം,B,"""Les Miserables"" എന്ന കൃതിയുടെ വിവർത്തനം പാവങ്ങൾ എന്നാണ്.",Literature,IMG_6499.jpg
+460,"""Crime and Punishment"" എന്ന കൃതിയുടെ വിവർത്തനം ഏതാണ്?",കുഞ്ഞുകാര്യങ്ങളുടെ ഒടേതമ്പുരാൻ,പാവങ്ങൾ,കുറ്റവും ശിക്ഷയും,മൂലധനം,C,"""Crime and Punishment"" എന്ന കൃതിയുടെ വിവർത്തനം കുറ്റവും ശിക്ഷയും എന്നാണ്.",Literature,IMG_6499.jpg
+461,"""Das Capital"" എന്ന കൃതിയുടെ വിവർത്തനം ഏതാണ്?",കുഞ്ഞുകാര്യങ്ങളുടെ ഒടേതമ്പുരാൻ,പാവങ്ങൾ,കുറ്റവും ശിക്ഷയും,മൂലധനം,D,"""Das Capital"" എന്ന കൃതിയുടെ വിവർത്തനം മൂലധനം എന്നാണ്.",Literature,IMG_6499.jpg
+462,"""War and Peace"" എന്ന കൃതിയുടെ വിവർത്തനം ഏതാണ്?",കുഞ്ഞുകാര്യങ്ങളുടെ ഒടേതമ്പുരാൻ,പാവങ്ങൾ,കുറ്റവും ശിക്ഷയും,യുദ്ധവും സമാധാനവും,D,"""War and Peace"" എന്ന കൃതിയുടെ വിവർത്തനം യുദ്ധവും സമാധാനവും എന്നാണ്.",Literature,IMG_6499.jpg
+463,2024-ലെ എഴുത്തച്ഛൻ പുരസ്കാരം ആർക്കാണ് ലഭിച്ചത്?,എൻ എസ് മാധവൻ,കെ അരവിന്ദാക്ഷൻ,അശോകൻ ചരുവിൽ,കെ ജയകുമാർ,A,2024-ലെ എഴുത്തച്ഛൻ പുരസ്കാരം എൻ എസ് മാധവനാണ് ലഭിച്ചത്.,Awards,IMG_6499.jpg
+464,2024-ലെ ഓടക്കുഴൽ പുരസ്കാരം ആർക്കാണ് ലഭിച്ചത്?,എൻ എസ് മാധവൻ,കെ അരവിന്ദാക്ഷൻ,അശോകൻ ചരുവിൽ,കെ ജയകുമാർ,B,2024-ലെ ഓടക്കുഴൽ പുരസ്കാരം കെ അരവിന്ദാക്ഷനാണ് ലഭിച്ചത്.,Awards,IMG_6499.jpg
+465,2024-ലെ വയലാർ പുരസ്കാരം ആർക്കാണ് ലഭിച്ചത്?,എൻ എസ് മാധവൻ,കെ അരവിന്ദാക്ഷൻ,അശോകൻ ചരുവിൽ,കെ ജയകുമാർ,C,2024-ലെ വയലാർ പുരസ്കാരം അശോകൻ ചരുവിലിനാണ് ലഭിച്ചത്.,Awards,IMG_6499.jpg
+466,2024-ലെ കേന്ദ്രസാഹിത്യ അക്കാദമി പുരസ്കാരം ആർക്കാണ് ലഭിച്ചത്?,എൻ എസ് മാധവൻ,കെ അരവിന്ദാക്ഷൻ,അശോകൻ ചരുവിൽ,കെ ജയകുമാർ,D,2024-ലെ കേന്ദ്രസാഹിത്യ അക്കാദമി പുരസ്കാരം കെ ജയകുമാറിനാണ് ലഭിച്ചത്.,Awards,IMG_6499.jpg
+467,2024-ലെ ഒ.എൻ.വി സാഹിത്യ പുരസ്കാരം ആർക്കാണ് ലഭിച്ചത്?,പ്രതിഭ റായ്,കെ അരവിന്ദാക്ഷൻ,അശോകൻ ചരുവിൽ,കെ ജയകുമാർ,A,2024-ലെ ഒ.എൻ.വി സാഹിത്യ പുരസ്കാരം പ്രതിഭ റായിക്കാണ് ലഭിച്ചത്.,Awards,IMG_6499.jpg
+468,2024-ലെ തോപ്പിൽ ഭാസി പുരസ്കാരം ആർക്കാണ് ലഭിച്ചത്?,പെരുമ്പടവം ശ്രീധരൻ,കെ അരവിന്ദാക്ഷൻ,അശോകൻ ചരുവിൽ,കെ ജയകുമാർ,A,2024-ലെ തോപ്പിൽ ഭാസി പുരസ്കാരം പെരുമ്പടവം ശ്രീധരനാണ് ലഭിച്ചത്.,Awards,IMG_6499.jpg
+469,2024-ലെ ആശാൻ സ്മാരക കവിത പുരസ്കാരം ആർക്കാണ് ലഭിച്ചത്?,വി എം ഗിരിജ,കെ അരവിന്ദാക്ഷൻ,അശോകൻ ചരുവിൽ,കെ ജയകുമാർ,A,2024-ലെ ആശാൻ സ്മാരക കവിത പുരസ്കാരം വി എം ഗിരിജയ്ക്കാണ് ലഭിച്ചത്.,Awards,IMG_6499.jpg
+470,Hindi is the official language of which country?,Pakistan,Bangladesh,India,Nepal,C,Hindi is the official language of the Republic of India.,Hindi,IMG_6500.jpg
+471,Approximately how many people speak Hindi in India?,1.3 million,13 million,130 million,1.3 billion,D,Hindi is spoken by most of the country's 1.3 billion people.,Hindi,IMG_6500.jpg
+472,Which of the following languages is related to Hindi?,French,German,Sanskrit,Japanese,C,Hindi is an Indo-Aryan language related to languages such as Sanskrit and Punjabi.,Hindi,IMG_6500.jpg
+473,In what script is Hindi written?,Roman,Cyrillic,Devanagari,Greek,C,Hindi is written in the Devanagari script.,Hindi,IMG_6500.jpg
+474,The earliest known examples of Hindi date back to which century?,8th century,9th century,10th century,11th century,C,The earliest known examples of Hindi date back to the 10th century.,Hindi,IMG_6500.jpg
+475,The Khari Boli dialect is the basis for which form of Hindi?,Ancient Hindi,Modern Standard Hindi,Rural Hindi,Classical Hindi,B,The Khari Boli dialect is the basis for Modern Standard Hindi.,Hindi,IMG_6500.jpg
+476,During which period was a standardized form of Hindi developed?,Mughal Empire,British colonial period,Gupta Empire,Mauryan Empire,B,A standardized form of Hindi was developed during the British colonial period.,Hindi,IMG_6500.jpg
+477,Approximately how many people speak Hindi in India and around the world?,26 million,260 million,2.6 billion,26 billion,B,Hindi is an Indo-Aryan language spoken by over 260 million people in India and around the world.,Hindi,IMG_6500.jpg
+478,Which of the following Indian states has Hindi as an official language?,Tamil Nadu,Karnataka,Uttar Pradesh,Andhra Pradesh,C,"Hindi is the official language of the Indian states of Uttar Pradesh, Uttarakhand, Chhattisgarh, and Madhya Pradesh.",Hindi,IMG_6500.jpg
+479,Hindi is part of which language family?,Sino-Tibetan,Austro-Asiatic,Indo-Aryan,Dravidian,C,Hindi is a part of the Indo-Aryan language family.,Hindi,IMG_6500.jpg
+480,Hindi is the ______ most spoken language in the world.,Second,Third,Fourth,Fifth,C,"Hindi is the fourth most spoken language in the world, after Mandarin Chinese, Spanish, and English.",Hindi,IMG_6500.jpg
+481,In which century was the Devanagari script developed?,5th century CE,6th century CE,7th century CE,8th century CE,C,The Devanagari script was developed in the 7th century CE.,Hindi,IMG_6500.jpg
+482,The Devanagari script is named after a town located in which present-day state of India?,Maharashtra,Gujarat,Rajasthan,Uttar Pradesh,B,"The Devanagari script is named after the town of Devanagar, which is located in the present-day state of Gujarat in India.",Hindi,IMG_6500.jpg
+483,The earliest known texts written in Hindi are written in a form of Sanskrit known as:,New Hindi,Modern Hindi,Old Hindi or Hindavi,Classical Hindi,C,The earliest known texts written in Hindi are written in a form of Sanskrit known as Old Hindi or Hindavi.,Hindi,IMG_6500.jpg
+484,When was Modern Hindi developed?,During the Mughal Empire,During the British Raj in India,During the Gupta Empire,During the Delhi Sultanate,B,Modern Hindi was developed during the British Raj in India.,Hindi,IMG_6500.jpg
+485,Approximately how many cells are estimated to make up the human body?,3.72 billion,37.2 million,37.2 trillion,372 trillion,C,The human body is estimated to be composed of 37.2 trillion cells.,Science,IMG_6515.jpg
+486,What is the approximate quantity of blood in the human body?,1-2 litres,5-6 litres,10-12 litres,15-16 litres,B,The human body contains approximately 5-6 litres of blood.,Science,IMG_6515.jpg
+487,How many bones are there in the human skeletal system in adults?,200,206,212,218,B,The adult human skeletal system has 206 bones.,Science,IMG_6515.jpg
+488,Which of the following is the largest organ in the human body?,Liver,Heart,Skin,Brain,C,The skin is the largest organ in the human body.,Science,IMG_6515.jpg
+489,Which of the following is the largest gland in the human body?,Thyroid,Liver,Pancreas,Pituitary,B,The liver is the largest gland in the human body.,Science,IMG_6515.jpg
+490,How many blood groups are there in the ABO system?,2,4,6,8,B,"There are 4 blood groups in the ABO system: A, B, AB, and O.",Science,IMG_6515.jpg
+491,How many chambers does the human heart have?,2,3,4,5,C,The human heart has 4 chambers: two atria and two ventricles.,Science,IMG_6515.jpg
+492,What is the average blood pressure of a healthy human being?,80/60 mmHg,100/70 mmHg,120/80 mmHg,140/90 mmHg,C,The average blood pressure of a healthy human being is 120/80 mmHg.,Science,IMG_6515.jpg
+493,What is the average weight of the human brain?,1.0 kg,1.36 kg,1.5 kg,2.0 kg,B,The average weight of the human brain is 1.36 kg.,Science,IMG_6515.jpg
+494,What is the name of the covering of the central nervous system?,Cranium,Meninges,Vertebrae,Periosteum,B,The covering of the central nervous system is called the meninges.,Science,IMG_6515.jpg
+495,"Which part of the brain controls anger, fear, and body temperature?",Cerebrum,Cerebellum,Hypothalamus,Medulla Oblongata,C,"The hypothalamus controls anger, fear, and body temperature.",Science,IMG_6515.jpg
+496,Which part of the brain occupies approximately 80% of its volume?,Cerebrum,Cerebellum,Brainstem,Thalamus,A,The cerebrum occupies about 80% of the brain's volume.,Science,IMG_6515.jpg
+497,Which gland is known as the 'master gland' of the body?,Thyroid gland,Adrenal gland,Pituitary gland,Pineal gland,C,The pituitary gland is often called the 'master gland' because it controls other glands.,Science,IMG_6515.jpg
+498,Approximately how much urine does a healthy human pass each day?,500 ml,1000 ml,1500 ml,2000 ml,C,A healthy human passes about 1500 ml of urine each day.,Science,IMG_6515.jpg
+499,What is the average weight of the heart in a human being?,150 gm,200 gm,300 gm,400 gm,C,The average weight of the heart in a human being is 300 gm.,Science,IMG_6515.jpg
+500,What is the covering of the heart called?,Pleura,Pericardium,Peritoneum,Endocardium,B,The covering of the heart is called the pericardium.,Science,IMG_6515.jpg
+501,How many pairs of ribs are there in the human thorax?,10 pairs,12 pairs,14 pairs,16 pairs,B,There are 12 pairs of ribs in the human thorax.,Science,IMG_6515.jpg
+502,What percentage of calcium is stored in the bones?,75%,85%,97%,99%,C,97% of the calcium in the body is stored in the bones.,Science,IMG_6515.jpg
+503,Which acid is secreted from the stomach?,Sulfuric acid,Nitric acid,Hydrochloric acid (HCl),Acetic acid,C,Hydrochloric acid (HCl) is secreted from the stomach to aid in digestion.,Science,IMG_6515.jpg
+504,Approximately how much gastric juice is secreted from the stomach daily?,1 litre,2 litres,3 litres,4 litres,B,About 2 litres of gastric juice are secreted from the stomach daily.,Science,IMG_6515.jpg
+505,Which of the following is a mixed gland in the human body?,Thyroid,Adrenal,Pancreas,Pituitary,C,The pancreas is a mixed gland because it has both endocrine and exocrine functions.,Science,IMG_6515.jpg
+506,What is the biological process by which new individual organisms are produced from their parents?,Transportation,Respiration,Reproduction,Photosynthesis,C,Reproduction is the process by which offspring are produced from their parents.,Science,IMG_6509.jpg
+507,Which of the following is NOT a form of reproduction?,Asexual,Sexual,Transportation,Both A and B,C,Asexual and sexual are the two forms of reproduction.,Science,IMG_6509.jpg
+508,What is the process that involves the movement of water and nutrients to all parts of the plant?,Respiration,Transportation,Reproduction,Photosynthesis,B,Transportation is the process that moves water and nutrients throughout the plant.,Science,IMG_6509.jpg
+509,Which of the following are the two main components of a plant's transport system?,Roots and stems,Leaves and flowers,Xylem and phloem,Chloroplasts and mitochondria,C,Xylem and phloem are the two main components of the plant's transport system.,Science,IMG_6509.jpg
+510,What does xylem help transport in plants?,Food,Water,Carbon dioxide,Oxygen,B,Xylem helps in the upward transportation of water.,Science,IMG_6509.jpg
+511,What does phloem help transport in plants?,Water,Minerals,Food,Oxygen,C,Phloem helps in the transportation of food from the leaves to other plant parts.,Science,IMG_6509.jpg
+512,"What do plants need, like other animals, to survive?",Sunlight,Water,Energy,Carbon Dioxide,C,"Plants, like other animals, also need energy to survive.",Science,IMG_6509.jpg
+513,"Plants get energy through the process of respiration, in which glucose breaks down in the presence of what?",Nitrogen,Carbon Dioxide,Oxygen,Hydrogen,C,"Plants get energy through respiration, where glucose breaks down in the presence of oxygen.",Science,IMG_6509.jpg
+514,What is released during respiration in plants?,Glucose,Oxygen,Carbon dioxide and water,Nitrogen,C,"During respiration, glucose breaks down into carbon dioxide and water, releasing energy.",Science,IMG_6509.jpg
+515,What do plants take in from the air for respiration?,Carbon dioxide,Nitrogen,Oxygen,Hydrogen,C,Plants take in oxygen from the air for respiration.,Science,IMG_6509.jpg
+516,What do plants give out during respiration?,Oxygen,Nitrogen,Carbon dioxide,Glucose,C,Plants give out carbon dioxide during respiration.,Science,IMG_6509.jpg
+517,What is the respiration that takes place in the presence of oxygen called?,Anaerobic respiration,Aerobic respiration,Photosynthesis,Transpiration,B,Respiration that takes place in the presence of oxygen is called aerobic respiration.,Science,IMG_6509.jpg
+518,Aerobic respiration involves the utilization of oxygen for the breakdown of what?,Water,Minerals,Chemical bonds in glucose,Carbon dioxide,C,Aerobic respiration involves the utilization of oxygen for the breakdown of chemical bonds in glucose to release energy.,Science,IMG_6509.jpg
+519,What is the chief source of energy for plants and animals?,Water,Sunlight,Aerobic respiration,Minerals,C,Aerobic respiration is the chief source of energy for plants and animals.,Science,IMG_6509.jpg
+520,Animals and plants that use oxygen for respiration are called:,Anaerobes,Aerobes,Autotrophs,Heterotrophs,B,Animals and plants that use oxygen for respiration are called aerobes.,Science,IMG_6509.jpg
+521,Which of the following organisms have aerobic respiration?,Majority of animals,Majority of plants,All bacteria,All fungi,A,Majority of animals have aerobic respiration.,Science,IMG_6509.jpg
+522,In which year did the First Indian War of Independence take place?,1857,1878,1885,1905,A,The First Indian War of Independence took place in 1857.,History,IMG_6527.jpg
+523,What was the Vernacular Press Act?,A law promoting local languages,A law restricting freedom of the press in local languages,A law promoting English language newspapers,A law promoting freedom of the press,B,The Vernacular Press Act restricted freedom of the press in local languages.,History,IMG_6527.jpg
+524,In which year was the Indian National Congress formed?,1857,1878,1885,1905,C,The Indian National Congress was formed in 1885.,History,IMG_6527.jpg
+525,When did the Partition of Bengal occur?,1885,1905,1906,1907,B,The Partition of Bengal occurred in 1905.,History,IMG_6527.jpg
+526,In which year was the All-India Muslim League founded?,1905,1906,1907,1909,B,The All-India Muslim League was founded in 1906.,History,IMG_6527.jpg
+527,When did the Split of INC occur?,1906,1907,1909,1910,B,The Split of INC occurred in 1907.,History,IMG_6527.jpg
+528,What were the Minto-Morley Reforms?,Reforms related to the press,Reforms related to the partition of Bengal,Reforms related to Indian governance,Reforms related to the Muslim League,C,The Minto-Morley Reforms were related to Indian governance.,History,IMG_6527.jpg
+529,In which year was the Indian Press Act passed?,1907,1909,1910,1911,C,The Indian Press Act was passed in 1910.,History,IMG_6527.jpg
+530,When was the Partition of Bengal cancelled?,1910,1911,1916,1917,B,The Partition of Bengal was cancelled in 1911.,History,IMG_6527.jpg
+531,In which year was the Home Rule League established?,1911,1916,1917,1919,B,The Home Rule League was established in 1916.,History,IMG_6527.jpg
+532,What was the Champaran Satyagraha?,A movement for press freedom,A movement for home rule,A peasant revolt led by Gandhi,A movement for partition of Bengal,C,The Champaran Satyagraha was a peasant revolt led by Gandhi.,History,IMG_6527.jpg
+533,What were the Montagu-Chelmsford Reforms?,Reforms related to the press,Reforms related to Indian governance,Reforms related to the partition of Bengal,Reforms related to the Muslim League,B,The Montagu-Chelmsford Reforms were related to Indian governance.,History,IMG_6527.jpg
+534,In which year was the Rowlatt Act passed?,1917,1919,1920,1922,B,The Rowlatt Act was passed in 1919.,History,IMG_6527.jpg
+535,What was the Jallianwala Bagh massacre?,A battle between the British and Indians,A peaceful protest,The killing of unarmed civilians by British forces,A riot between Hindus and Muslims,C,The Jallianwala Bagh massacre was the killing of unarmed civilians by British forces.,History,IMG_6527.jpg
+536,When did the Non-Cooperation Movement take place?,1917-1919,1919-1920,1920-1922,1922-1924,C,The Non-Cooperation Movement took place from 1920-1922.,History,IMG_6527.jpg
+537,What was the Chauri Chaura incident?,A peaceful protest,A violent clash between protesters and police,A meeting of the Indian National Congress,A meeting of the Muslim League,B,The Chauri Chaura incident was a violent clash between protesters and police.,History,IMG_6527.jpg
+538,In which year was the Swaraj Party established?,1920,1922,1923,1927,C,The Swaraj Party was established in 1923.,History,IMG_6527.jpg
+539,When was the Simon Commission established?,1923,1927,1930,1942,B,The Simon Commission was established in 1927.,History,IMG_6527.jpg
+540,What was the Civil Disobedience Movement?,A movement for home rule,A movement for complete independence,A movement for non-cooperation,A movement for civil rights,B,The Civil Disobedience Movement was a movement for complete independence.,History,IMG_6527.jpg
+541,In which year did the Quit India Movement begin?,1930,1942,1946,1947,B,The Quit India Movement began in 1942.,History,IMG_6527.jpg
+542,What was the Cabinet Mission?,A mission to establish a new government,A mission to negotiate Indian independence,A mission to suppress the Quit India Movement,A mission to establish the Simon Commission,B,The Cabinet Mission was a mission to negotiate Indian independence.,History,IMG_6527.jpg
+543,In which year did India gain independence?,1942,1946,1947,1950,C,India gained independence in 1947.,History,IMG_6527.jpg
+544,What was the Mountbatten Plan?,A plan for the partition of India,A plan for economic development,A plan for educational reform,A plan for military expansion,A,The Mountbatten Plan was a plan for the partition of India.,History,IMG_6527.jpg
+545,Approximately how many major languages are spoken in India?,7,17,70,844,B,There are 17 major languages spoken in India.,Geography,IMG_6527.jpg
+546,Approximately how many dialects are spoken in India?,17,84,844,"3,00,000",C,There are 844 dialects spoken in India.,Geography,IMG_6527.jpg
+547,What did India invent?,The printing press,The number system,The steam engine,The telephone,B,India invented the number system.,General Knowledge,IMG_6527.jpg
+548,Which game was invented in India?,Cricket,Football,Chess,Tennis,C,Chess was invented in India.,General Knowledge,IMG_6527.jpg
+549,What is India's rank in terms of size among the countries of the world?,3rd,5th,7th,9th,B,India is the 5th largest country in the world.,Geography,IMG_6527.jpg
+550,Which of the following is true about India?,It is the smallest democracy in the world,It is the largest democracy in the world,It is the newest democracy in the world,It is not a democracy,B,India is the largest democracy in the world.,Civics,IMG_6527.jpg
+551,Approximately how many mosques are there in India?,"30,000","3,00,000","3,000,000","30,000,000",B,"India has approximately 3,00,000 mosques.",Geography,IMG_6527.jpg
+552,What is India one of the largest exporters of?,Agricultural products,Computer software products,Textiles,Automobiles,B,India is one of the largest exporters of computer software products.,Economics,IMG_6527.jpg
+553,Who invented the human blood grouping system?,Aristotle,Carl Landsteiner,Femur,Stapes,B,Carl Landsteiner is credited with inventing the human blood grouping system.,Science,IMG_6516.jpg
+554,What type of blood is carried through an artery?,Deoxygenated blood,Oxygenated blood,Mixed blood,All of the above,B,Arteries typically carry oxygenated blood away from the heart.,Science,IMG_6516.jpg
+555,What is the function of haemoglobin?,Fight infection,Transport oxygen,Digest food,Clot blood,B,Haemoglobin is responsible for transporting oxygen in the blood.,Science,IMG_6516.jpg
+556,Which of the following is known as the powerhouse of the cell?,Nucleus,Mitochondria,Ribosome,Cell membrane,B,Mitochondria are known as the powerhouse of the cell because they generate energy.,Science,IMG_6516.jpg
+557,What part of the cell is considered the brain?,Mitochondria,Nucleus,Cytoplasm,Cell membrane,B,"The nucleus controls the cell's activities, hence it is called the brain of the cell.",Science,IMG_6516.jpg
+558,Who is considered the father of anatomy?,Carl Landsteiner,Aristotle,Femur,Stapes,B,Aristotle is considered the father of anatomy.,Science,IMG_6516.jpg
+559,Which of the following is the longest bone in the human body?,Tibia,Fibula,Femur,Humerus,C,"The femur, or thigh bone, is the longest bone in the human body.",Science,IMG_6516.jpg
+560,How many teeth does an adult human typically have?,28,30,32,34,C,An adult human typically has 32 teeth.,Science,IMG_6516.jpg
+561,Which part of the human body produces voice?,Esophagus,Vocal cord,Trachea,Lungs,B,The vocal cords in the larynx are responsible for producing voice.,Science,IMG_6516.jpg
+562,What is the covering of the lungs called?,Pericardium,Pleura,Peritoneum,Meninges,B,The pleura is the membrane that covers the lungs.,Science,IMG_6516.jpg
+563,What is the common pathway between the respiratory and gastrointestinal tracts?,Larynx,Pharynx,Esophagus,Trachea,B,The pharynx serves as a common pathway for both the respiratory and gastrointestinal tracts.,Science,IMG_6516.jpg
+564,What is the cause of Diabetes Mellitus?,Vitamin deficiency,Insulin deficiency,Calcium deficiency,Iron deficiency,B,Diabetes Mellitus is often caused by a deficiency in insulin production or action.,Science,IMG_6516.jpg
+565,Which hormone is the primary sex hormone in females?,Testosterone,Estrogen,Progesterone,Insulin,B,Estrogen is the primary sex hormone in females.,Science,IMG_6516.jpg
+566,What is secreted by the lacrimal gland?,Saliva,Tears,Sweat,Mucus,B,The lacrimal gland is responsible for secreting tears.,Science,IMG_6516.jpg
+567,Which of the following is a common but dangerous disease of the eye?,Cataracts,Glaucoma,Conjunctivitis,Myopia,B,Glaucoma is a common but dangerous eye disease that can lead to blindness.,Science,IMG_6516.jpg
+568,What is the smallest bone in the human body?,Patella,Stapes,Radius,Ulna,B,"The stapes, located in the middle ear, is the smallest bone in the human body.",Science,IMG_6516.jpg
+569,What is another name for the voice box?,Esophagus,Larynx,Pharynx,Trachea,B,The larynx is commonly known as the voice box.,Science,IMG_6516.jpg
+570,What is digestion?,The process of building proteins,The process of breaking down food,The process of transporting oxygen,The process of filtering blood,B,Digestion is the process of breaking down food into smaller molecules that the body can absorb.,Science,IMG_6516.jpg
+571,What are capillaries?,Large arteries,Tiny blood vessels that connect arteries and veins,Muscles in the heart,Nerves in the brain,B,Capillaries are the smallest blood vessels in the body and connect arteries and veins.,Science,IMG_6516.jpg
+572,What is the cuticle?,The outer layer of skin,The waxy covering on plant leaves,A type of blood cell,A part of the eye,B,The cuticle is the waxy covering on plant leaves that helps prevent water loss.,Science,IMG_6516.jpg
+573,What was the first vaccine targeted disease?,Polio,Measles,Smallpox,Tuberculosis,C,The first vaccine was developed to target smallpox.,Science,IMG_6516.jpg
+574,What type of respiration occurs in the absence of oxygen?,Aerobic respiration,Anaerobic respiration,Cellular respiration,Photosynthesis,B,Anaerobic respiration is the respiration that takes place in the absence of oxygen.,Science,IMG_6510.jpg
+575,What are the products of incomplete oxidation of food material in anaerobic respiration?,Oxygen and water,Carbon dioxide and water,Carbon dioxide and alcohol,Sugar and oxygen,C,"In anaerobic respiration, the incomplete oxidation of food material produces carbon dioxide and alcohol.",Science,IMG_6510.jpg
+576,Which of the following organisms can perform anaerobic respiration?,Humans,Yeast,Plants,Fish,B,"Anaerobic respiration takes place in organisms like yeast, some bacteria, and parasitic worms.",Science,IMG_6510.jpg
+577,Organisms are divided into two main groups based on their mode of nutrition. What are these two groups?,Producers and consumers,Autotrophs and heterotrophs,Herbivores and carnivores,Plants and animals,B,Organisms are divided into autotrophs and heterotrophs based on their modes of nutrition.,Science,IMG_6510.jpg
+578,Which of the following is NOT a type of heterotrophic nutrition?,Saprotrophic nutrition,Parasitic nutrition,Holozoic nutrition,Autotrophic nutrition,D,"Saprotrophic, parasitic, and holozoic nutrition are types of heterotrophic nutrition. Autotrophic nutrition is not.",Science,IMG_6510.jpg
+579,What does 'Sapro' mean?,Living,Rotten,Green,Growing,B,Sapro means rotten.,Science,IMG_6510.jpg
+580,What do saprophytes feed on?,Living plants,Dead and decaying organic matter,Other animals,Sunlight,B,Saprophytes feed on dead and decaying organic matter.,Science,IMG_6510.jpg
+581,Which of the following is an example of a saprophyte?,Rose,Fungi,Lion,Human,B,Fungi and many bacteria are saprophytes.,Science,IMG_6510.jpg
+582,What do saprophytes do to complex organic matter?,Convert it into energy,Break it down into simpler substances,Absorb it directly,Store it for later use,B,Saprophytes break down complex organic matter into simpler substances outside their body.,Science,IMG_6510.jpg
+583,What is the mode of nutrition in which organisms feed on other living organisms without killing them?,Saprotrophic nutrition,Parasitic nutrition,Holozoic nutrition,Autotrophic nutrition,B,"Parasitic nutrition is the mode of nutrition in which organisms feed on other living organisms, called their host, without killing them.",Science,IMG_6510.jpg
+584,What are organisms called that obtain food from a living host?,Saprophytes,Parasites,Autotrophs,Heterotrophs,B,The organisms which obtain food in a manner are called parasites.,Science,IMG_6510.jpg
+585,What is the organism called that is harmed by a parasite?,Prey,Host,Predator,Decomposer,B,"Parasites harm the host, which may be a plant or an animal.",Science,IMG_6510.jpg
+586,What is the process of transformation of rock from one type to another called?,Metamorphosis,Rock Cycle,Igneous Formation,Sedimentation,B,The process of transformation of rock from one type to another is called the Rock Cycle.,Science,IMG_6523.jpg
+587,The Delhi Sultanate was an Islamic empire based government that ruled the large part of the Indian subcontinent for how many years?,120 years,220 years,320 years,420 years,C,The Delhi Sultanate ruled the Indian subcontinent for 320 years.,History,IMG_6523.jpg
+588,Which dynasty ruled the Delhi Sultanate from 1206-1290?,Khilji Dynasty,Tughlaq Dynasty,Sayyid Dynasty,Slave Dynasty,D,The Slave Dynasty ruled the Delhi Sultanate from 1206-1290.,History,IMG_6523.jpg
+589,Which dynasty ruled the Delhi Sultanate from 1290-1320?,Slave Dynasty,Khilji Dynasty,Tughlaq Dynasty,Lodi Dynasty,B,The Khilji Dynasty ruled the Delhi Sultanate from 1290-1320.,History,IMG_6523.jpg
+590,Which dynasty ruled the Delhi Sultanate from 1320-1414?,Slave Dynasty,Khilji Dynasty,Tughlaq Dynasty,Sayyid Dynasty,C,The Tughlaq Dynasty ruled the Delhi Sultanate from 1320-1414.,History,IMG_6523.jpg
+591,Which dynasty ruled the Delhi Sultanate from 1414-1451?,Tughlaq Dynasty,Sayyid Dynasty,Lodi Dynasty,Khilji Dynasty,B,The Sayyid Dynasty ruled the Delhi Sultanate from 1414-1451.,History,IMG_6523.jpg
+592,Which dynasty ruled the Delhi Sultanate from 1451-1526?,Sayyid Dynasty,Lodi Dynasty,Tughlaq Dynasty,Khilji Dynasty,B,The Lodi Dynasty ruled the Delhi Sultanate from 1451-1526.,History,IMG_6523.jpg
+593,Who was the founder of the Slave or Mamluk Dynasty?,Jalaluddin Khilji,Ghiyasuddin Tughlaq,Qutb ud-din Aibak,Khizar Khan,C,Qutb ud-din Aibak was the founder of the Slave or Mamluk Dynasty.,History,IMG_6523.jpg
+594,Who was the founder of the Khilji Dynasty?,Qutb ud-din Aibak,Jalaluddin Khilji,Ghiyasuddin Tughlaq,Khizar Khan,B,Jalaluddin Khilji was the founder of the Khilji Dynasty.,History,IMG_6523.jpg
+595,Who was the founder of the Tughlaq Dynasty?,Jalaluddin Khilji,Khizar Khan,Bahlul Lodi,Ghiyasuddin Tughlaq,D,Ghiyasuddin Tughlaq was the founder of the Tughlaq Dynasty.,History,IMG_6523.jpg
+596,Who was the founder of the Sayyid Dynasty?,Khizar Khan,Bahlul Lodi,Qutb ud-din Aibak,Jalaluddin Khilji,A,Khizar Khan was the founder of the Sayyid Dynasty.,History,IMG_6523.jpg
+597,Who was the founder of the Lodi Dynasty?,Khizar Khan,Bahlul Lodi,Ghiyasuddin Tughlaq,Jalaluddin Khilji,B,Bahlul Lodi was the founder of the Lodi Dynasty.,History,IMG_6523.jpg
+598,Between which centuries did the Mughal Empire control much of South Asia?,14th and 17th,15th and 18th,16th and 19th,17th and 20th,C,The Mughal Empire controlled much of South Asia between the 16th and 19th centuries.,History,IMG_6523.jpg
+599,Who gave the slogan 'Do or Die'?,Jawaharlal Nehru,Mahatma Gandhi,Lala Lajpat Rai,Bhagat Singh,B,Mahatma Gandhi gave the slogan 'Do or Die'.,Civics,IMG_6528.jpg
+600,Who gave the slogan 'Inquilab Zindabad'?,Mahatma Gandhi,Shaheed Bhagat Singh,Lala Lajpat Rai,Jawaharlal Nehru,B,Shaheed Bhagat Singh gave the slogan 'Inquilab Zindabad'.,Civics,IMG_6528.jpg
+601,Who gave the slogan 'Jai Hind'?,Mahatma Gandhi,Netaji Subhash Chandra Bose,Lala Lajpat Rai,Jawaharlal Nehru,B,Netaji Subhash Chandra Bose gave the slogan 'Jai Hind'.,Civics,IMG_6528.jpg
+602,Who gave the slogan 'Satyamev Jayate'?,Mahatma Gandhi,Pandit Madan Mohan Malviya,Lala Lajpat Rai,Jawaharlal Nehru,B,Pandit Madan Mohan Malviya gave the slogan 'Satyamev Jayate'.,Civics,IMG_6528.jpg
+603,Who gave the slogan 'Sare Jahaan Se Acha Hindustan Hamara'?,Muhammad Iqbal,Pandit Madan Mohan Malviya,Lala Lajpat Rai,Jawaharlal Nehru,A,Muhammad Iqbal gave the slogan 'Sare Jahaan Se Acha Hindustan Hamara'.,Civics,IMG_6528.jpg
+604,Who gave the slogan 'Aaram haram hai'?,Muhammad Iqbal,Pandit Madan Mohan Malviya,Jawaharlal Nehru,Lala Lajpat Rai,C,Jawaharlal Nehru gave the slogan 'Aaram haram hai'.,Civics,IMG_6528.jpg
+605,Who gave the slogan 'Jai Jawan Jai Kisan'?,Muhammad Iqbal,Lal Bahadur Shastri,Jawaharlal Nehru,Lala Lajpat Rai,B,Lal Bahadur Shastri gave the slogan 'Jai Jawan Jai Kisan'.,Civics,IMG_6528.jpg
+606,Who gave the slogan 'Simon Go Back'?,Muhammad Iqbal,Lal Bahadur Shastri,Jawaharlal Nehru,Lala Lajpat Rai,D,Lala Lajpat Rai gave the slogan 'Simon Go Back'.,Civics,IMG_6528.jpg
+607,"Who gave the slogan 'Swaraj mera janam sidh adhikar hai, aur mai ise lekar rahunga'?",Muhammad Iqbal,Lal Bahadur Shastri,Jawaharlal Nehru,Bal Gangadhar Tilak,D,"Bal Gangadhar Tilak gave the slogan 'Swaraj mera janam sidh adhikar hai, aur mai ise lekar rahunga'.",Civics,IMG_6528.jpg
+608,Who gave the slogan 'Vande Mataram'?,Muhammad Iqbal,Bankim Chandra Chatterjee,Jawaharlal Nehru,Bal Gangadhar Tilak,B,Bankim Chandra Chatterjee gave the slogan 'Vande Mataram'.,Civics,IMG_6528.jpg
+609,Who gave the slogan 'Dilli chalo'?,Muhammad Iqbal,Bankim Chandra Chatterjee,Netaji Subhash Chandra Bose,Bal Gangadhar Tilak,C,Netaji Subhash Chandra Bose gave the slogan 'Dilli chalo'.,Civics,IMG_6528.jpg
+610,What is the supreme law of India?,The President's Rule,The Constitution,The Parliament,The Supreme Court,B,The Constitution is the supreme law of India.,Civics,IMG_6528.jpg
+611,What type of document is the Indian Constitution?,An oral tradition,A written document,A set of guidelines,A historical artifact,B,The Indian Constitution is a written document.,Civics,IMG_6528.jpg
+612,Who is regarded as the 'Father of the Indian Constitution'?,Mahatma Gandhi,Jawaharlal Nehru,Dr. B.R. Ambedkar,Rajendra Prasad,C,Dr. B.R. Ambedkar is regarded as the 'Father of the Indian Constitution'.,Civics,IMG_6528.jpg
+613,What is Constitution Day also known as?,Republic Day,Independence Day,Samvidhan Divas,Gandhi Jayanti,C,Constitution Day is also famously known as 'Samvidhan Divas'.,Civics,IMG_6528.jpg
+614,When is Constitution Day celebrated in India?,26th January,15th August,2nd October,26th November,D,Constitution Day is celebrated on 26th November every year.,Civics,IMG_6528.jpg
+615,What is a characteristic of the Indian Constitution compared to other written constitutions?,The shortest,The oldest,The lengthiest,The newest,C,The Constitution of India is the lengthiest of all the written Constitutions of the world.,Civics,IMG_6528.jpg
+616,How many fundamental rights are there in the Indian Constitution?,Five,Six,Seven,Eight,B,There are six fundamental rights in the Indian Constitution.,Civics,IMG_6528.jpg
+617,Which of the following is a fundamental right in the Indian Constitution?,Right to Property,Right to Vote,Right to Equality,Right to Education,C,Right to equality is one of the fundamental rights in the Indian Constitution.,Civics,IMG_6528.jpg
+618,Which of the following is a fundamental right in the Indian Constitution?,Right to Property,Right to Vote,Right to Freedom,Right to Education,C,Right to freedom is one of the fundamental rights in the Indian Constitution.,Civics,IMG_6528.jpg
+619,Which of the following is a fundamental right in the Indian Constitution?,Right to Property,Right to Vote,Right against exploitation,Right to Education,C,Right against exploitation is one of the fundamental rights in the Indian Constitution.,Civics,IMG_6528.jpg
+620,In which sport did India win a Gold medal at the 1928 Olympics?,Cricket,Football,Hockey,Badminton,C,"According to the table, India won a Gold medal in Hockey at the 1928 Olympics.",Sports,IMG_6539.jpg
+621,In what year did India win a Silver medal in Hockey at the Olympics?,1956,1960,1964,1968,B,The table shows that India won a Silver medal in Hockey in 1960.,Sports,IMG_6539.jpg
+622,Which of these years was NOT one in which India won a Gold medal in Hockey at the Olympics?,1932,1952,1972,1980,C,"India won Gold medals in Hockey in 1932, 1952, and 1980, but not in 1972.",Sports,IMG_6539.jpg
+623,Which team has won the IPL cricket tournament the most times?,Kolkata Knight Riders,Mumbai Indians,Chennai Super Kings,Rajasthan Royals,B,"Both Mumbai Indians and Chennai Super Kings have won the IPL 5 times, which is more than any other team listed.",Sports,IMG_6539.jpg
+624,Which team won the IPL in 2008?,Deccan Chargers,Rajasthan Royals,Chennai Super Kings,Mumbai Indians,B,The table shows that Rajasthan Royals won the IPL in 2008.,Sports,IMG_6539.jpg
+625,Which team won the IPL in 2022?,Sunrisers Hyderabad,Gujarat Titans,Mumbai Indians,Rajasthan Royals,B,The table shows that Gujarat Titans won the IPL in 2022.,Sports,IMG_6539.jpg
+626,Which country has won the FIFA World Cup the most times?,Germany,Italy,Brazil,Argentina,C,"Brazil has won the FIFA World Cup 5 times, which is more than any other team listed.",Sports,IMG_6539.jpg
+627,In which year did England win the FIFA World Cup?,1958,1966,1974,1978,B,The table shows that England won the FIFA World Cup in 1966.,Sports,IMG_6539.jpg
+628,How many times has Argentina won the FIFA World Cup?,2,3,4,5,B,The table shows that Argentina has won the FIFA World Cup 3 times.,Sports,IMG_6539.jpg
+629,Which country won the ODI Cricket World Cup in 2019?,Australia,India,England,Pakistan,C,The table shows that England won the ODI Cricket World Cup in 2019.,Sports,IMG_6539.jpg
+630,Which country won the ODI Cricket World Cup in 1992?,Australia,Pakistan,Sri Lanka,West Indies,B,The table shows that Pakistan won the ODI Cricket World Cup in 1992.,Sports,IMG_6539.jpg
+631,How many times has Australia won the ODI Cricket World Cup?,2,4,5,6,D,The table shows that Australia has won the ODI Cricket World Cup 6 times.,Sports,IMG_6539.jpg
+632,Which country won the ODI Cricket World Cup in 1983?,Australia,India,West Indies,England,B,The table shows that India won the ODI Cricket World Cup in 1983.,Sports,IMG_6539.jpg
+633,Approximately how many major organs does the human body contain?,50,65,78,90,C,The human body contains a total of seventy-eight major organs.,Science,IMG_6503.jpg
+634,Which of the following is NOT listed as one of the five essential organs for survival?,Heart,Brain,Stomach,Lungs,C,"The five essential organs listed are the heart, brain, kidneys, liver, and lungs.",Science,IMG_6503.jpg
+635,What is the approximate weight range of the liver?,0.5 to 0.7 kg,1.0 to 1.2 kg,1.3 to 1.5 kg,1.8 to 2.0 kg,C,The liver weighs between 1.3 and 1.5 kg.,Science,IMG_6503.jpg
+636,Where is the liver located in the body?,Lower left part of the abdomen,Upper right part of the abdomen,Lower right part of the abdomen,Upper left part of the abdomen,B,The liver is located in the upper right part of the abdomen.,Science,IMG_6503.jpg
+637,What is the shape of the liver?,Circular,Square,"Triangular, bilobed",Rectangular,C,"The liver is in triangular, bilobed shape.",Science,IMG_6503.jpg
+638,The liver conducts over how many activities?,100,250,500,750,C,The liver conducts over 500 activities.,Science,IMG_6503.jpg
+639,Which fluid protects the brain from mild mechanical shocks and jolts?,Gastric fluid,Cerebrospinal fluid,Synovial fluid,Lymphatic fluid,B,"The brain is suspended in cerebrospinal fluid, which protects it from shocks and jolts.",Science,IMG_6503.jpg
+640,Which system comprises the brain as well as the spinal cord?,Digestive system,Respiratory system,Central nervous system,Circulatory system,C,The central nervous system (CNS) comprises the brain as well as the spinal cord.,Science,IMG_6503.jpg
+641,Which of the following is a function of the central nervous system?,Digesting food,Thinking and interpreting,Pumping blood,Filtering waste,B,"The central nervous system is in charge of thinking, interpreting, regulating, and controlling physical emotions.",Science,IMG_6503.jpg
+642,Which of the following is the biggest internal organ in the human body?,Brain,Heart,Liver,Lungs,C,The liver is the biggest internal organ in the human body.,Science,IMG_6503.jpg
+643,Which of the following is a fundamental duty of Indian citizens?,To only respect the national flag,To follow ideals of the freedom struggle,To disrespect the Constitution,To only protect the integrity of their state,B,Following the ideals of the freedom struggle is a fundamental duty.,Civics,IMG_6531.jpg
+644,"According to the Indian Constitution, which list includes subjects of national importance?",State List,Concurrent List,Union List,District List,C,The Union List contains subjects of national importance.,Civics,IMG_6531.jpg
+645,Which of the following subjects falls under the Union List?,Agriculture,Police,Defence,Education,C,Defence is a subject under the Union List.,Civics,IMG_6531.jpg
+646,Which of the following subjects falls under the State List?,Atomic Energy,Foreign Affairs,Agriculture,Currency & Coinage,C,Agriculture is a subject under the State List.,Civics,IMG_6531.jpg
+647,Which of the following subjects falls under the Concurrent List?,War and Peace,Education,Railways,Ports,B,Education is a subject under the Concurrent List.,Civics,IMG_6531.jpg
+648,The Seventh Schedule of the Indian Constitution divides legislative powers into how many lists?,Two,Four,Three,Five,C,"The Seventh Schedule divides powers into the Union, State, and Concurrent Lists.",Civics,IMG_6531.jpg
+649,Which of the following is a fundamental right?,Right to property,Right to freedom of religion,Right to vote at 18,Right to free education after 14,B,Right to freedom of religion is a fundamental right.,Civics,IMG_6531.jpg
+650,Which of the following is included in the Union List?,Local Government,Public Health,Foreign Trade,Liquor,C,Foreign Trade is included in the Union List.,Civics,IMG_6531.jpg
+651,Which of the following is included in the State List?,Foreign Affairs,Banking,Land,Currency & Coinage,C,Land is included in the State List.,Civics,IMG_6531.jpg
+652,Which of the following is included in the Concurrent List?,Defence,Police,Forests,Railways,C,Forests is included in the Concurrent List.,Civics,IMG_6531.jpg
+653,"When changing direct speech to indirect speech, what should you do with the pronouns?",Keep them the same,Change them according to the context,Remove them completely,Add more pronouns,B,Pronouns need to be changed to reflect the speaker and listener in the indirect speech.,English,IMG_6496.jpg
+654,"In direct speech, Tom says, 'Lilly likes pizza.' What tense is this?",Simple Past,Present Continuous,Simple Present,Past Perfect,C,The sentence 'Lilly likes pizza' is in the simple present tense.,English,IMG_6496.jpg
+655,"In indirect speech, 'Tom said that Lilly liked pizza' is an example of changing which tense?",Present Continuous to Past Continuous,Simple Present to Simple Past,Present Perfect to Past Perfect,Simple Past to Past Perfect,B,The example shows the change from Simple Present to Simple Past.,English,IMG_6496.jpg
+656,"In direct speech, Ali says to Kim, 'They are eating.' What tense is this?",Simple Present,Present Continuous,Simple Past,Past Continuous,B,The sentence 'They are eating' is in the present continuous tense.,English,IMG_6496.jpg
+657,"In indirect speech, 'Ali told Kim that they were eating' is an example of changing which tense?",Present Continuous to Past Continuous,Simple Present to Simple Past,Present Perfect to Past Perfect,Simple Past to Past Perfect,A,The example shows the change from Present Continuous to Past Continuous.,English,IMG_6496.jpg
+658,"In direct speech, Eva says, 'I have rung the bell.' What tense is this?",Simple Present,Present Continuous,Present Perfect,Past Perfect,C,The sentence 'I have rung the bell' is in the present perfect tense.,English,IMG_6496.jpg
+659,"In indirect speech, 'Eva said that she had rung the bell' is an example of changing which tense?",Present Continuous to Past Continuous,Simple Present to Simple Past,Present Perfect to Past Perfect,Simple Past to Past Perfect,C,The example shows the change from Present Perfect to Past Perfect.,English,IMG_6496.jpg
+660,Which reporting verb is typically used for questions?,Said,Told,Asked,Commanded,C,The reporting verb 'asked' is used for questions.,English,IMG_6496.jpg
+661,Which reporting verb is typically used for requests?,Said,Told,Asked,Requested,D,The reporting verb 'requested' is used for requests.,English,IMG_6496.jpg
+662,Which reporting verb is typically used for commands?,Said,Told,Asked,Commanded,D,The reporting verb 'commanded' is used for commands.,English,IMG_6496.jpg
+663,What reporting clause is typically used for statements?,That,If,Whether,To,A,The reporting clause 'that' is typically used for statements.,English,IMG_6496.jpg
+664,What reporting clause is typically used for exclamatory sentences?,That,If,Whether,To,A,The reporting clause 'that' is typically used for exclamatory sentences.,English,IMG_6496.jpg
+665,What reporting clause is typically used for requests?,That,If,Whether,To,D,The reporting clause 'to' is typically used for requests.,English,IMG_6496.jpg
+666,What reporting clause is typically used for commands?,That,If,Whether,To,D,The reporting clause 'to' is typically used for commands.,English,IMG_6496.jpg
+667,Which of the following is the largest artery in the human body?,Aorta,Femur,Ribosome,Estrogen,A,The aorta is the largest artery in the human body.,Science,IMG_6517.jpg
+668,What part of the cell is the ribosome located in?,Nucleus,Cytoplasm,Cell Membrane,Mitochondria,B,Ribosomes are tiny structures located in the cytoplasm of a cell.,Science,IMG_6517.jpg
+669,Which of the following is an air-borne disease?,Diabetes,Measles,Cancer,Heart Disease,B,Measles is an air-borne disease.,Science,IMG_6517.jpg
+670,What type of hormone is estrogen?,Protein hormone,Steroid hormone,Peptide hormone,Amino acid hormone,B,Estrogen is a steroid hormone.,Science,IMG_6517.jpg
+671,What causes brass to get discolored in the air?,Oxygen,Carbon Dioxide,Hydrogen Sulphide,Nitrogen,C,Brass gets discolored in air because of the presence of Hydrogen Sulphide.,Science,IMG_6517.jpg
+672,Which of the following elements is a non-metal and remains liquid at room temperature?,Iron,Bromine,Gold,Silver,B,Bromine is a non-metal that remains liquid at room temperature.,Science,IMG_6517.jpg
+673,What is the hardest substance available on Earth?,Iron,Diamond,Steel,Titanium,B,The hardest substance available on earth is Diamond.,Science,IMG_6517.jpg
+674,What are galvanized iron sheets coated with?,Copper,Zinc,Aluminum,Tin,B,Galvanised iron sheets have a coating of zinc.,Science,IMG_6517.jpg
+675,Which element is common to all acids?,Oxygen,Carbon,Hydrogen,Nitrogen,C,Hydrogen is the element common to all acids.,Science,IMG_6517.jpg
+676,What are non-stick cooking utensils coated with?,Plastic,Teflon,Rubber,Ceramic,B,Non-stick cooking utensils are coated with Teflon.,Science,IMG_6517.jpg
+677,What is the most important ore of aluminum?,Iron Pyrite,Bauxite,Galena,Hematite,B,The most important ore of aluminium is bauxite.,Science,IMG_6517.jpg
+678,Which of the following is the largest bone in the human body?,Tibia,Fibula,Femur,Humerus,C,Femur is the largest bone in the human body.,Science,IMG_6517.jpg
+679,Which blood group does not have antibodies?,A,B,O,AB,D,The blood group without antibody is AB group.,Science,IMG_6517.jpg
+680,Who invented the electric bulb?,Alexander Graham Bell,Thomas Alva Edison,Zacharis Janssen,Rune Elmqvist,B,Thomas Alva Edison invented the electric bulb.,Science,IMG_6517.jpg
+681,Who invented the microphone?,Thomas Alva Edison,Alexander Graham Bell,Zacharis Janssen,Rune Elmqvist,B,Alexander Graham Bell invented the microphone.,Science,IMG_6517.jpg
+682,Who invented the microscope?,Thomas Alva Edison,Alexander Graham Bell,Zacharis Janssen,Rune Elmqvist,C,Zacharis Janssen invented the microscope.,Science,IMG_6517.jpg
+683,Who invented the pacemaker?,Thomas Alva Edison,Alexander Graham Bell,Zacharis Janssen,Rune Elmqvist,D,Rune Elmqvist invented the pacemaker.,Science,IMG_6517.jpg
+684,Who invented the pedal driven bicycle?,Kirkpatrick Macmillan,Alexander Fleming,Jonas Edward Salk,Johannes Gutenberg,A,Kirkpatrick Macmillan invented the pedal driven bicycle.,Science,IMG_6517.jpg
+685,Who invented Penicillin?,Kirkpatrick Macmillan,Alexander Fleming,Jonas Edward Salk,Johannes Gutenberg,B,Alexander Fleming invented Penicillin.,Science,IMG_6517.jpg
+686,Who invented the Polio Vaccine?,Kirkpatrick Macmillan,Alexander Fleming,Jonas Edward Salk,Johannes Gutenberg,C,Jonas Edward Salk invented the Polio Vaccine.,Science,IMG_6517.jpg
+687,Who invented the printing press?,Kirkpatrick Macmillan,Alexander Fleming,Jonas Edward Salk,Johannes Gutenberg,D,Johannes Gutenberg invented the printing press.,Science,IMG_6517.jpg
+688,Who invented the radio?,Johannes Gutenberg,Guglielmo Marconi,William Cullen,Alexander Fleming,B,Guglielmo Marconi invented the radio.,Science,IMG_6517.jpg
+689,Who invented the refrigerator?,Johannes Gutenberg,Guglielmo Marconi,William Cullen,Alexander Fleming,C,William Cullen invented the refrigerator.,Science,IMG_6517.jpg
+690,In what year did Norman Pritchard win a silver medal in the Olympics?,1900,1952,1996,2000,A,Norman Pritchard won a silver medal in 1900.,General Knowledge,IMG_6538.jpg
+691,Which sport did KD Jadhav win a bronze medal in at the Olympics?,Tennis,Weightlifting,Wrestling,Shooting,C,KD Jadhav won a bronze medal in Wrestling - Freestyle.,General Knowledge,IMG_6538.jpg
+692,Leander Paes won a bronze medal in which sport?,Wrestling,Tennis,Shooting,Boxing,B,Leander Paes won a bronze medal in Tennis - Singles.,General Knowledge,IMG_6538.jpg
+693,Karnam Malleswari won a bronze medal in which sport?,Boxing,Shooting,Wrestling,Weightlifting,D,Karnam Malleswari won a bronze medal in Weightlifting - 54 kg.,General Knowledge,IMG_6538.jpg
+694,In what sport did Rajyavardhan Singh Rathore win a silver medal?,Wrestling,Tennis,Shooting,Boxing,C,Rajyavardhan Singh Rathore won a silver medal in Shooting - Double Trap.,General Knowledge,IMG_6538.jpg
+695,Abhinav Bindra won a gold medal in which sport?,Wrestling,Tennis,Shooting,Boxing,C,Abhinav Bindra won a gold medal in Shooting - 10m Air rifle.,General Knowledge,IMG_6538.jpg
+696,In which sport did Vijender Singh win a bronze medal?,Wrestling,Tennis,Shooting,Boxing,D,Vijender Singh won a bronze medal in Boxing - Middleweight.,General Knowledge,IMG_6538.jpg
+697,Sushil Kumar won medals in which sport?,Tennis,Shooting,Wrestling,Boxing,C,Sushil Kumar won medals in Wrestling.,General Knowledge,IMG_6538.jpg
+698,Vijay Kumar won a silver medal in which sport?,Wrestling,Tennis,Shooting,Boxing,C,Vijay Kumar won a silver medal in Shooting - 25m Rapid Pistol.,General Knowledge,IMG_6538.jpg
+699,Saina Nehwal won a bronze medal in which sport?,Badminton,Tennis,Shooting,Boxing,A,Saina Nehwal won a bronze medal in Badminton - Singles.,General Knowledge,IMG_6538.jpg
+700,Mary Kom won a bronze medal in which sport?,Wrestling,Tennis,Shooting,Boxing,D,Mary Kom won a bronze medal in Boxing - Flyweight.,General Knowledge,IMG_6538.jpg
+701,Yogeshwar Dutt won a bronze medal in which sport?,Wrestling,Tennis,Shooting,Boxing,A,Yogeshwar Dutt won a bronze medal in Wrestling - 60 kg.,General Knowledge,IMG_6538.jpg
+702,Gagan Narang won a bronze medal in which sport?,Wrestling,Tennis,Shooting,Boxing,C,Gagan Narang won a bronze medal in Shooting - 10m Air Rifle.,General Knowledge,IMG_6538.jpg
+703,PV Sindhu won a bronze medal in which sport?,Wrestling,Badminton,Shooting,Boxing,B,PV Sindhu won a bronze medal in Badminton - Singles.,General Knowledge,IMG_6538.jpg
+704,Sakshi Malik won a bronze medal in which sport?,Wrestling,Tennis,Shooting,Boxing,A,Sakshi Malik won a bronze medal in Wrestling - 58 kg.,General Knowledge,IMG_6538.jpg
+705,Neeraj Chopra won a gold medal in which sport?,Wrestling,Tennis,Javelin,Boxing,C,Neeraj Chopra won a gold medal in Javelin.,General Knowledge,IMG_6538.jpg
+706,Mirabai Chanu won a silver medal in which sport?,Wrestling,Tennis,Weightlifting,Boxing,C,Mirabai Chanu won a silver medal in Weightlifting - 49 kg.,General Knowledge,IMG_6538.jpg
+707,Ravi Kumar Dahiya won a silver medal in which sport?,Wrestling,Tennis,Shooting,Boxing,A,Ravi Kumar Dahiya won a silver medal in Wrestling - 57 kg.,General Knowledge,IMG_6538.jpg
+708,Lovlina Borgohain won a bronze medal in which sport?,Wrestling,Tennis,Shooting,Boxing,D,Lovlina Borgohain won a bronze medal in Boxing - Welterweight.,General Knowledge,IMG_6538.jpg
+709,In what year did PV Sindhu win a bronze medal in Badminton at the Olympics?,2012,2016,2020,2024,B,PV Sindhu won a bronze medal in Badminton in 2016.,General Knowledge,IMG_6538.jpg
+710,Bajrang Punia won a bronze medal in which sport?,Wrestling,Tennis,Shooting,Boxing,A,Bajrang Punia won a bronze medal in Wrestling - 65 kg.,General Knowledge,IMG_6538.jpg
+711,Manu Bhaker won a bronze medal in which sport?,Wrestling,Tennis,Shooting,Boxing,C,"Manu Bhaker won a bronze medal in 10m Air Pistol, 10m Air Pistol mixed team.",General Knowledge,IMG_6538.jpg
+712,Sarabjot Singh won a bronze medal in which sport?,Wrestling,Tennis,Shooting,Boxing,C,Sarabjot Singh won a bronze medal in 10m Air Pistol mixed team.,General Knowledge,IMG_6538.jpg
+713,Aman Sehrawat won a bronze medal in which sport?,Wrestling,Tennis,Shooting,Boxing,A,Aman Sehrawat won a bronze medal in Wrestling - 57Kg.,General Knowledge,IMG_6538.jpg
+714,Swapnil Kusale won a bronze medal in which sport?,Wrestling,Tennis,Shooting,Boxing,C,Swapnil Kusale won a bronze medal in 50m Air rifle.,General Knowledge,IMG_6538.jpg
+715,Neeraj Chopra won a silver medal in which sport?,Wrestling,Tennis,Javelin,Boxing,C,Neeraj Chopra won a silver medal in Javelin.,General Knowledge,IMG_6538.jpg
+716,In what year did Abhinav Bindra win a gold medal in Shooting at the Olympics?,2000,2004,2008,2012,C,Abhinav Bindra won a gold medal in Shooting in 2008.,General Knowledge,IMG_6538.jpg
+717,What is holozoic nutrition?,A mode of nutrition where organisms eat only liquids.,A mode of nutrition where organisms eat solid foods.,A mode of nutrition where organisms produce their own food.,A mode of nutrition where organisms absorb nutrients directly from the environment.,B,Holozoic nutrition is a mode of nutrition in which organisms eat solid foods.,Science,IMG_6511.jpg
+718,"In holozoic nutrition, what happens after an organism ingests food?",The food is immediately absorbed into the body cells.,The food is digested and then absorbed into the body cells.,The food is immediately thrown out of the body.,The food is converted into energy without digestion.,B,"In holozoic nutrition, the organism ingests the food, digests it, and then absorbs the nutrients into the body cells.",Science,IMG_6511.jpg
+719,What is the process called by which unabsorbed food is thrown out of the body in holozoic nutrition?,Ingestion,Digestion,Absorption,Egestion,D,Egestion is the process by which unabsorbed food is thrown out of the body.,Science,IMG_6511.jpg
+720,Which of the following animals has a holozoic mode of nutrition?,Mushroom,Grass,Dog,Rose,C,"Man, Cat, Dog, Bear, Giraffe, Frog, Fish, etc., have holozoic mode of nutrition.",Science,IMG_6511.jpg
+721,What is motion?,When an object stays in the same position.,When an object changes its position with time.,When an object disappears.,When an object grows larger.,B,Motion is when an object changes its position with time.,Science,IMG_6511.jpg
+722,What is another name for rectilinear motion?,Circular motion,Rotational motion,Translatory motion,Periodic motion,C,Rectilinear motion is also known as translatory motion.,Science,IMG_6511.jpg
+723,Which of the following is an example of rectilinear motion?,A car turning a corner,A spinning top,A vehicle on a straight road,A pendulum swinging,C,Motion of any vehicle on a straight road is an example of rectilinear motion.,Science,IMG_6511.jpg
+724,What is circular motion?,Motion along a straight line,Motion in a zig-zag pattern,Motion of an object rotating along a circular path,Motion that repeats at equal intervals of time,C,Circular motion is the movement of an object while rotating along a circular path.,Science,IMG_6511.jpg
+725,Circular motion can be:,Always uniform,Always non-uniform,Either uniform or non-uniform,Neither uniform nor non-uniform,C,Circular motion can be either uniform or non-uniform.,Science,IMG_6511.jpg
+726,What is rotational motion?,Motion along a straight line,Motion of an object around a circular path in a fixed orbit,Motion that repeats at equal intervals of time,Random motion,B,Rotational motion is the motion of an object around a circular path in a fixed orbit.,Science,IMG_6511.jpg
+727,What is periodic motion?,Motion that is constant,Motion that is random,Motion repeated in equal intervals of time,Motion that only occurs once,C,Periodic motion is motion repeated in equal intervals of time.,Science,IMG_6511.jpg
+728,Which of the following is an example of periodic motion?,A car driving down the street,A bouncing ball,A leaf falling from a tree,A person walking,B,A bouncing ball is an example of periodic motion.,Science,IMG_6511.jpg
+729,"What does the Latin word 'Ignis' mean, from which the term 'igneous' is derived?",Water,Earth,Fire,Air,C,"The word 'igneous' comes from the Latin word 'Ignis', which means fire.",Igneous Rocks,IMG_6522.jpg
+730,Igneous rocks are formed by the:,Compacting of sediments,Cooling of molten magma,Weathering of existing rocks,Application of heat and pressure,B,Igneous rocks are formed by the solidification on the cooling of molten magma.,Igneous Rocks,IMG_6522.jpg
+731,What are igneous rocks called when molten magma cools deep inside the earth's crust?,Extrusive,Intrusive,Sedimentary,Metamorphic,B,"When molten magma cools deep inside the earth's crust, intrusive igneous rocks are formed.",Igneous Rocks,IMG_6522.jpg
+732,What are igneous rocks called when molten magma (lava) comes on the earth's surface and cools rapidly?,Intrusive,Extrusive,Sedimentary,Metamorphic,B,"When molten magma comes on the earth's surface, it rapidly cools and becomes solid. These are called extrusive igneous rocks.",Igneous Rocks,IMG_6522.jpg
+733,Which of the following is an example of an extrusive igneous rock?,Granite,Basalt,Sandstone,Marble,B,Basalt is an example of extrusive igneous rocks.,Igneous Rocks,IMG_6522.jpg
+734,The Deccan Plateau is primarily made up of which type of rock?,Granite,Basalt,Sandstone,Limestone,B,The Deccan Plateau is made up of basalt rocks.,Igneous Rocks,IMG_6522.jpg
+735,From which Latin word do sedimentary rocks get their name?,Ignis,Metamorphose,Sedimentum,Lava,C,Sedimentary rocks get their name from the Latin word 'sedimentum'.,Sedimentary Rocks,IMG_6522.jpg
+736,What process primarily forms sedimentary rocks?,Cooling of magma,Settling down of sediments,Application of heat and pressure,Volcanic eruption,B,Sedimentary rocks are formed by the settling down of sediments.,Sedimentary Rocks,IMG_6522.jpg
+737,Which of the following is an example of a sedimentary rock?,Basalt,Sandstone,Marble,Slate,B,Sandstone is an example of sedimentary rock.,Sedimentary Rocks,IMG_6522.jpg
+738,From which Greek word is the term 'metamorphic' derived?,Sedimentum,Ignis,Metamorphose,Lava,C,The word 'metamorphic' is derived from the Greek word 'metamorphose'.,Metamorphic Rocks,IMG_6522.jpg
+739,What does the Greek word 'metamorphose' mean?,Settling down,Change of form,Molten rock,Solidification,B,'Metamorphose' means change of form.,Metamorphic Rocks,IMG_6522.jpg
+740,Metamorphic rocks are formed when igneous and sedimentary rocks change their form under which circumstances?,Extreme cold,Great heat and great pressure,Rapid cooling,Erosion,B,Metamorphic rocks are formed when igneous and sedimentary rocks change their form under great heat and great pressure.,Metamorphic Rocks,IMG_6522.jpg
+741,Which of the following is an example of a metamorphic rock?,Sandstone,Basalt,Slate,Sediment,C,Slate is an example of a metamorphic rock.,Metamorphic Rocks,IMG_6522.jpg
+742,What does clay become after metamorphosis?,Marble,Sandstone,Slate,Basalt,C,Clay becomes slate after metamorphosis.,Metamorphic Rocks,IMG_6522.jpg
+743,What does limestone become after metamorphosis?,Slate,Marble,Sandstone,Basalt,B,Limestone becomes marble after metamorphosis.,Metamorphic Rocks,IMG_6522.jpg
+744,Hindi Diwas is celebrated on which date every year?,14th of August,14th of September,15th of August,15th of September,B,Hindi Diwas is celebrated on the 14th of September every year.,Hindi Diwas,IMG_6502.jpg
+745,Hindi Diwas commemorates the adoption of Hindi as one of India's...,National anthems,Official languages,Classical dances,Historical monuments,B,Hindi Diwas commemorates the adoption of Hindi as one of India's official languages.,Hindi Diwas,IMG_6502.jpg
+746,Who is the author of the book 'Godaan'?,Dharmavir Bharati,Munshi Premchand,Sarat Chandra Chattopadhyay,Yashpal,B,Munshi Premchand is the author of 'Godaan'.,Books and Authors,IMG_6502.jpg
+747,Who is the author of the book 'Gunahon ka Devta'?,Munshi Premchand,Dharmavir Bharati,Sarat Chandra Chattopadhyay,Yashpal,B,Dharmavir Bharati is the author of 'Gunahon ka Devta'.,Books and Authors,IMG_6502.jpg
+748,Who is the author of the book 'Charitraheen'?,Munshi Premchand,Dharmavir Bharati,Sarat Chandra Chattopadhyay,Yashpal,C,Sarat Chandra Chattopadhyay is the author of 'Charitraheen'.,Books and Authors,IMG_6502.jpg
+749,Who is the author of the book 'Jhutha Sach'?,Munshi Premchand,Dharmavir Bharati,Sarat Chandra Chattopadhyay,Yashpal,D,Yashpal is the author of 'Jhutha Sach'.,Books and Authors,IMG_6502.jpg
+750,Who is the author of the book 'Kamayani'?,Jaishankar Prasad,Mahadevi Verma,Yashpal,Sarat Chandra Chattopadhyay,A,Jaishankar Prasad is the author of 'Kamayani'.,Books and Authors,IMG_6502.jpg
+751,Who is the author of the book 'Yama'?,Jaishankar Prasad,Mahadevi Verma,Yashpal,Sarat Chandra Chattopadhyay,B,Mahadevi Verma is the author of 'Yama'.,Books and Authors,IMG_6502.jpg
+752,Which of the following is a poem by Suryakant Tripathi 'Nirala'?,Bapu,The Deeds of Krishna,Basant aaya,Trikaal Sandhya,C,'Basant aaya' is a poem by Suryakant Tripathi 'Nirala'.,Hindi Poets and Poems,IMG_6502.jpg
+753,Which of the following is a poem by Ramdhari Singh Dinkar?,Bapu,The Deeds of Krishna,Basant aaya,Trikaal Sandhya,A,'Bapu' is a poem by Ramdhari Singh Dinkar.,Hindi Poets and Poems,IMG_6502.jpg
+754,Which of the following is a poem by Sant Surdas?,Bapu,The Deeds of Krishna,Basant aaya,Trikaal Sandhya,B,'The Deeds of Krishna' is a poem by Sant Surdas.,Hindi Poets and Poems,IMG_6502.jpg
+755,Which of the following is a poem by Bhavani Prasad Mishra?,Bapu,The Deeds of Krishna,Basant aaya,Trikaal Sandhya,D,'Trikaal Sandhya' is a poem by Bhavani Prasad Mishra.,Hindi Poets and Poems,IMG_6502.jpg
+756,Which of the following is a poem by Shivmangal Singh Suman?,Bapu,Jeevan ke Gaan,Basant aaya,Trikaal Sandhya,B,'Jeevan ke Gaan' is a poem by Shivmangal Singh Suman.,Hindi Poets and Poems,IMG_6502.jpg
+757,Which language is spoken by most people in India?,English,Hindi,Tamil,Bengali,B,Hindi is spoken by most people in India.,General Knowledge,IMG_6502.jpg
+758,When is Hindi Day celebrated?,14th August,14th September,15th August,15th September,B,Hindi Day is celebrated on 14th September.,Important Dates,IMG_6502.jpg
+759,Which of the following is the first story of Hindi Literature?,Godaan,Idumati,Kamayani,Yama,B,Idumati is the first story of Hindi Literature.,Hindi Literature,IMG_6502.jpg
+760,Who was the first winner of the Sahitya Academy Award for Hindi?,Amrita Pritam,Mahadevi Verma,Makhanlal Chaturvedi,Jaishankar Prasad,C,Makhanlal Chaturvedi was the first winner of the Sahitya Academy Award for Hindi.,Awards,IMG_6502.jpg
+761,Who was the first woman to receive the Sahitya Academy Award?,Amrita Pritam,Mahadevi Verma,Makhanlal Chaturvedi,Jaishankar Prasad,A,Amrita Pritam was the first woman to receive the Sahitya Academy Award.,Awards,IMG_6502.jpg
+762,Which of the following is the first Hindi Newspaper?,Dialogue Moon,Navbharat Time,Idumati,Godaan,B,Navbharat Time is the first Hindi Newspaper.,Newspapers and Magazines,IMG_6502.jpg
+763,Which of the following is the first magazine in Hindi?,Dialogue Moon,Navbharat Time,Idumati,Godaan,A,Dialogue Moon is the first magazine in Hindi.,Newspapers and Magazines,IMG_6502.jpg
+764,Which country won the ICC Men's Cricket World Cup 2023?,Australia,India,England,New Zealand,A,Australia won the ICC Men's Cricket World Cup 2023.,Cricket,IMG_6536.jpg
+765,Who was the first batsman to score a double century in ODIs?,Ricky Ponting,Sachin Tendulkar,Brian Lara,Sanath Jayasuriya,B,Sachin Tendulkar was the first batsman to score a double century in ODIs.,Cricket,IMG_6536.jpg
+766,What is the maximum number of overs allowed per bowler in a T20 match?,3,4,5,6,B,The maximum number of overs allowed per bowler in a T20 match is 4.,Cricket,IMG_6536.jpg
+767,Where are the headquarters of the International Cricket Council (ICC) located?,"London, UK","Melbourne, Australia","Dubai, UAE","Mumbai, India",C,"The headquarters of the ICC are located in Dubai, UAE.",Cricket,IMG_6536.jpg
+768,Which country won the FIFA World Cup 2022?,France,Brazil,Germany,Argentina,D,Argentina won the FIFA World Cup 2022.,Football,IMG_6536.jpg
+769,Who has won the most Ballon d'Or awards as of 2023?,Cristiano Ronaldo,Lionel Messi,Michel Platini,Johan Cruyff,B,Lionel Messi has won the most Ballon d'Or awards (8 times as of 2023).,Football,IMG_6536.jpg
+770,What does FIFA stand for?,Federation of International Football Associations,Federation Internationale de Football Association,Football International Federation Association,Federation International Football Association,B,FIFA stands for Fédération Internationale de Football Association.,Football,IMG_6536.jpg
+771,Which club has won the most UEFA Champions League titles?,FC Barcelona,Manchester United,Real Madrid,AC Milan,C,Real Madrid has won the most UEFA Champions League titles.,Football,IMG_6536.jpg
+772,Who is the all-time highest goal scorer in international football?,Pele,Diego Maradona,Cristiano Ronaldo,Ferenc Puskas,C,Cristiano Ronaldo is the all-time highest goal scorer in international football.,Football,IMG_6536.jpg
+773,In which year were the first modern Olympic Games held?,1892,1896,1900,1904,B,The first modern Olympic Games were held in 1896.,Olympics,IMG_6536.jpg
+774,Who is the most decorated Olympian of all time?,Usain Bolt,Michael Phelps,Larisa Latynina,Paavo Nurmi,B,Michael Phelps is the most decorated Olympian of all time with 28 medals.,Olympics,IMG_6536.jpg
+775,Where will the 2028 Summer Olympics be held?,"Paris, France","Tokyo, Japan","Los Angeles, USA","Beijing, China",C,"The 2028 Summer Olympics will be held in Los Angeles, USA.",Olympics,IMG_6536.jpg
+776,Which country has won the most Olympic gold medals in history?,China,Russia,United States,Germany,C,The United States has won the most Olympic gold medals in history.,Olympics,IMG_6536.jpg
+777,Who was the first Indian to win an individual Olympic gold medal?,Leander Paes,Abhinav Bindra,Karnam Malleswari,Rajyavardhan Singh Rathore,B,Abhinav Bindra was the first Indian to win an individual Olympic gold medal.,Olympics,IMG_6536.jpg
+778,What is the surface of the French Open played on?,Grass,Clay,Hard Court,Carpet,B,The French Open is played on clay.,Tennis,IMG_6536.jpg
+779,Who was the first Indian to win a Grand Slam title?,Sania Mirza,Rohan Bopanna,Mahesh Bhupathi,Leander Paes,C,Mahesh Bhupathi was the first Indian to win a Grand Slam title.,Tennis,IMG_6536.jpg
+780,Which Grand Slam tournament is played on grass courts?,Australian Open,French Open,Wimbledon,US Open,C,Wimbledon is played on grass courts.,Tennis,IMG_6536.jpg
+781,What is the national sport of Japan?,Baseball,Sumo Wrestling,Judo,Karate,B,Sumo Wrestling is the national sport of Japan.,General Knowledge,IMG_6536.jpg
+782,Who is the fastest man in the world (100m sprint record holder)?,Carl Lewis,Usain Bolt,Maurice Greene,Asafa Powell,B,Usain Bolt is the fastest man in the world (100m sprint record holder).,Athletics,IMG_6536.jpg
+783,Which sport is associated with the Ryder Cup?,Tennis,Golf,Polo,Badminton,B,Golf is associated with the Ryder Cup.,Golf,IMG_6536.jpg
+784,How many players are there in a standard basketball team?,7,6,5,11,C,There are 5 players in a standard basketball team.,Basketball,IMG_6536.jpg
+785,Which country is famous for hosting the Tour de France cycling race?,Spain,Italy,France,Switzerland,C,France is famous for hosting the Tour de France cycling race.,Cycling,IMG_6536.jpg
+786,Who is the first cricketer to score 100 international centuries?,Ricky Ponting,Virat Kohli,Brian Lara,Sachin Tendulkar,D,Sachin Tendulkar is the first cricketer to score 100 international centuries.,Cricket,IMG_6536.jpg
+787,What is the correct question tag for the sentence 'I am the fastest'?,am I?,aren't I?,is I?,are I?,B,The correct question tag for 'I am' is 'aren't I?',Question Tags,IMG_6495.jpg
+788,What is the correct question tag for the sentence 'I am not a singer'?,aren't I?,am I?,is I?,are I?,B,The correct question tag for 'I am not' is 'am I?',Question Tags,IMG_6495.jpg
+789,Which of the following sentences is in the active voice?,Stories are written by him.,He writes stories.,Stories were written by him.,Stories will be written by him.,B,Active voice focuses on the subject performing the action.,Active and Passive Voice,IMG_6495.jpg
+790,Which of the following sentences is in the passive voice?,He wrote stories.,He will write stories.,Stories were written by him.,He writes stories.,C,Passive voice focuses on the object receiving the action.,Active and Passive Voice,IMG_6495.jpg
+791,What is the structure of a passive voice sentence in the simple present tense?,Object + was/were + V3,Object + is/are/am + V3,Object + will/shall + V3,Object + has/have + V3,B,The structure for passive voice in simple present is Object + is/are/am + V3.,Active and Passive Voice,IMG_6495.jpg
+792,What is the structure of a passive voice sentence in the simple past tense?,Object + is/are/am + V3,Object + was/were + V3,Object + will/shall + V3,Object + has/have + V3,B,The structure for passive voice in simple past is Object + was/were + V3.,Active and Passive Voice,IMG_6495.jpg
+793,What is the structure of a passive voice sentence in the simple future tense?,Object + is/are/am + V3,Object + was/were + V3,Object + will/shall + V3,Object + will/shall + be + V3,C,The structure for passive voice in simple future is Object + will/shall + V3.,Active and Passive Voice,IMG_6495.jpg
+794,Which of the following is an example of direct speech?,Tom said that Jerry was running.,"Tom said, ""Jerry is running"".",Tom said Jerry is running.,Tom said Jerry was running.,B,Direct speech uses the exact words of the speaker in quotation marks.,Direct and Indirect Speech,IMG_6495.jpg
+795,Which of the following is an example of indirect speech?,"Tom said, ""Jerry is running"".","""Jerry is running.""",Tom said that Jerry was running.,"Tom said, Jerry is running.",C,Indirect speech reports the speech without using the exact words of the speaker.,Direct and Indirect Speech,IMG_6495.jpg
+796,The sentence 'They learn English' in passive voice is:,English is learnt by them.,English was learnt by them.,English will be learnt by them.,English is learning by them.,A,The passive form of 'They learn English' is 'English is learnt by them'.,Active and Passive Voice,IMG_6495.jpg
+797,The sentence 'She makes a cup of tea' in passive voice is:,A cup of tea was made by her.,A cup of tea is made by her.,A cup of tea will be made by her.,A cup of tea is making by her.,B,The passive form of 'She makes a cup of tea' is 'A cup of tea is made by her'.,Active and Passive Voice,IMG_6495.jpg
+798,The sentence 'He played football' in passive voice is:,Football is playing by him.,Football was played by him.,Football will be played by him.,Football is played by him.,B,The passive form of 'He played football' is 'Football was played by him'.,Active and Passive Voice,IMG_6495.jpg
+799,The sentence 'She will sing a song' in passive voice is:,A song is sung by her.,A song was sung by her.,A song will be sung by her.,A song is singing by her.,C,The passive form of 'She will sing a song' is 'A song will be sung by her'.,Active and Passive Voice,IMG_6495.jpg
+800,The sentence 'We will buy a car' in passive voice is:,A car is bought by us.,A car was bought by us.,A car will be bought by us.,A car is buying by us.,C,The passive form of 'We will buy a car' is 'A car will be bought by us'.,Active and Passive Voice,IMG_6495.jpg
+801,Who commissioned the Akbarnama?,Babur,Humayun,Akbar,Jahangir,C,The Akbarnama was commissioned by Akbar himself.,Mughal History,IMG_6524.jpg
+802,Who wrote the Akbarnama?,Abul Fazl ibn Mubarak,Akbar,Shah Jahan,Aurangzeb,A,"The Akbarnama was written by Akbar's court historian and biographer, Abu'l-Fazl ibn Mubarak.",Mughal History,IMG_6524.jpg
+803,How many volumes does the Akbarnama consist of?,One,Two,Three,Four,C,The Akbarnama consists of three volumes.,Mughal History,IMG_6524.jpg
+804,What does the first volume of the Akbarnama describe?,Events of Akbar's reign,Akbar's administration,Akbar's Ancestors,Akbar's religious policies,C,The first volume of the Akbarnama describes Akbar's ancestors.,Mughal History,IMG_6524.jpg
+805,What does the second volume of the Akbarnama describe?,Akbar's ancestors,Events of Akbar's reign,Akbar's administration,Akbar's military campaigns,B,The second volume of the Akbarnama describes the events of Akbar's reign.,Mughal History,IMG_6524.jpg
+806,What is the third volume of the Akbarnama also known as?,Akbar's Biography,Ain-i-Akbari,Akbar's Administration,Akbar's Religious Views,B,The third volume of the Akbarnama is also known as Ain-i-Akbari.,Mughal History,IMG_6524.jpg
+807,What does Sulh-i-Kul mean?,Religious war,Absolute peace or peace for all,Military conquest,Economic prosperity,B,Sulh-i-Kul means absolute peace or peace for all.,Mughal History,IMG_6524.jpg
+808,Who devised the policy of Sulh-i-Kul?,Akbar,Abul Fazl,Humayun,Jahangir,B,The policy of Sulh-i-Kul was devised by Abul Fazl.,Mughal History,IMG_6524.jpg
+809,Which Mughal ruler implemented the policy of Sulh-i-Kul?,Babur,Humayun,Akbar,Jahangir,C,Akbar implemented the policy of Sulh-i-Kul.,Mughal History,IMG_6524.jpg
+810,Which of the following monuments is located in Delhi?,Taj Mahal,Agra Fort,Jama Masjid,Fatehpur Sikri,C,Jama Masjid is located in Delhi.,Mughal Architecture,IMG_6524.jpg
+811,Which of the following monuments is located in Agra?,Red Fort,Humayun's Tomb,Taj Mahal,Pari Mahal,C,Taj Mahal is located in Agra.,Mughal Architecture,IMG_6524.jpg
+812,In which city is Pari Mahal located?,Delhi,Agra,Srinagar,Fatehpur Sikri,C,Pari Mahal is located in Srinagar.,Mughal Architecture,IMG_6524.jpg
+813,In which state is Agra Fort located?,Delhi,Uttar Pradesh,Rajasthan,Punjab,B,Agra Fort is located in Uttar Pradesh.,Mughal Architecture,IMG_6524.jpg
+814,Which Mughal ruler reigned from 1556-1605?,Babur,Humayun,Akbar,Jahangir,C,Akbar reigned from 1556-1605.,Mughal History,IMG_6524.jpg
+815,How many times does the human heart beat per minute?,52,62,72,82,C,The human heart beats seventy-two times per minute.,Heart,IMG_6505.jpg
+816,Approximately how much blood does the heart pump each day?,"1,000 gallons","1,500 gallons","2,000 gallons","2,500 gallons",C,"The heart pumps around 2,000 gallons of blood each day.",Heart,IMG_6505.jpg
+817,Where is the human heart situated?,Abdominal cavity,Thoracic cavity,Cranial cavity,Pelvic cavity,B,The human heart is situated in the thoracic cavity.,Heart,IMG_6505.jpg
+818,What is the approximate size of an adult heart?,Size of a fist,Size of two fists,Size of two palms clenched together,Size of a tennis ball,C,An adult heart is roughly the size of our two palms clenched together.,Heart,IMG_6505.jpg
+819,Which of the following is NOT a main component of blood?,Plasma,Red blood cells,White blood cells,Cartilage,D,"Blood has four main components: plasma, red blood cells, white blood cells, and platelets.",Blood,IMG_6505.jpg
+820,What is the function of blood?,Transporting oxygen and nutrients,Forming blood clots,Preventing excess blood loss,All of the above,D,"Blood has many different functions, including transporting oxygen and nutrients, forming blood clots, and preventing excess blood loss.",Blood,IMG_6505.jpg
+821,How many lungs are in the human body?,One,Two,Three,Four,B,There are two lungs in the human body.,Lungs,IMG_6505.jpg
+822,Where are the lungs located?,Abdominal cavity,Thoracic cavity,Cranial cavity,Pelvic cavity,B,The lungs are located in the thoracic cavity of the chest.,Lungs,IMG_6505.jpg
+823,The lungs are critical components of which system?,Digestive system,Respiratory system,Circulatory system,Nervous system,B,Lungs are critical components of the respiratory system.,Lungs,IMG_6505.jpg
+824,What structures are contained within the lungs?,Bronchioles,Alveoli,Blood capillaries,All of the above,D,"The lungs contain bronchioles, alveoli, and blood capillaries.",Lungs,IMG_6505.jpg
+825,What is the function of alveoli?,Gas exchange,Blood filtration,Nutrient absorption,Waste elimination,A,Alveoli are balloon-like structures that extend the surface area for gas exchange.,Lungs,IMG_6505.jpg

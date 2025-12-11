@@ -1,0 +1,24 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Images and PDFs (users provide their own)
+images/
+images_jpg/
+images_compressed/
+*.pdf
+*.heic
+*.HEIC
+
+# Processing artifacts
+checkpoint.json
+
+# Environment
+.env

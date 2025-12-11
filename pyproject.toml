@@ -1,0 +1,12 @@
+[project]
+name = "quiz-extractor"
+version = "0.1.0"
+description = "Extract MCQ questions from study guide images using Gemini AI"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "google-genai>=1.55.0",
+    "pillow>=12.0.0",
+    "pillow-heif>=1.1.1",
+    "python-dotenv>=1.2.1",
+]
